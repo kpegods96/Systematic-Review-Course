@@ -1,7 +1,7 @@
 --- 
 title: "Systematic Review and Meta - Analysis Course"
 author: "Rafael Miranda Tassitano (PhD) and Godsway Edem Kpene"
-date: "2025-03-28"
+date: "2025-03-29"
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: [book.bib, packages.bib]
@@ -55,7 +55,6 @@ By the end of this course, students will be able to:
 11.	Explore subgroup analyses, meta-regression in meta-analysis.
 
 12.	Address potential biases (publication bias), conflicts of interest, and ethical concerns in systematic reviews and meta-analyses.
-
 
 ## Welcome Video 
 
