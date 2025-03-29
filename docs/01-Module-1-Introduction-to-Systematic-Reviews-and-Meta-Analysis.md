@@ -37,6 +37,7 @@ NOW ENJOY THE LECTURE!
 
 <iframe width="700" height="500" src="https://share.synthesia.io/4af3858a-65a2-4475-ba48-7061ea3059c9" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-
+Kindly send your answers to the email: gkpene2@illinois.edu
+Thank you.
 
 
