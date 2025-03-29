@@ -60,7 +60,7 @@ By the end of this course, students will be able to:
 ## Welcome Video 
 
 <iframe width="700" height="500" src="https://share.synthesia.io/061c9fed-f336-4b3d-b967-6a1790ea9eba" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-Authors: Rafael Miranda Tassitano (PhD) and Godsway Edem Kpene
+
 
 Authors: Rafael Miranda Tassitano (PhD) and Godsway Edem Kpene
 
