@@ -41,3 +41,35 @@ Kindly send your answers to the email: gkpene2@illinois.edu
 Thank you.
 
 
+## Lecture 2: Navigating the PROSPERO Website
+
+
+Welcome to Lecture 2 of Module 1! In this lecture, we will explore the PROSPERO website, guiding you through its interface and the essential guidelines for submitting a systematic review protocol.
+
+By the end of this lecture, you will:
+
+✅ Understand how to navigate the PROSPERO platform
+
+✅ Learn about the eligibility criteria for protocol submissions
+
+✅ Follow a step-by-step guide to registering a review
+
+✅ Gain access to official PROSPERO instructions and a sample protocol
+
+Whether you're new to PROSPERO or looking for a refresher, this lecture will equip you with everything you need to successfully submit a study protocol.
+
+
+NOW ENJOY THE LECTURE!
+
+
+<iframe width="700" height="500" src="https://share.synthesia.io/57360642-faec-4e27-9deb-fd61bd606e4b" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+
+Use this link below to access the PROSPERO instructions for a systematic review and then draft a study protocol for your own study
+
+https://www.east.org/content/documents/east_prospero_instructions_2021.pdf 
+
+A sample protocol is found here: https://www.crd.york.ac.uk/PROSPEROFILES/49176_PROTOCOL_20160910.pdf
+
+Kindly submit your draft protocols to Dr. Tassitano via rafaelmt@illinois.edu
