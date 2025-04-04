@@ -17,6 +17,12 @@ csl: chicago-fullnote-bibliography.csl
 
 # Overview 
 
+## Welcome Video 
+
+<iframe width="700" height="500" src="https://share.synthesia.io/061c9fed-f336-4b3d-b967-6a1790ea9eba" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+
 This course provides training in conducting rigorous reviews of existing 
 research to synthesize evidence. It covers systematic review methodologies, 
 including formulating research questions (PICO framework), literature search 
@@ -56,9 +62,7 @@ By the end of this course, students will be able to:
 
 12.	Address potential biases (publication bias), conflicts of interest, and ethical concerns in systematic reviews and meta-analyses.
 
-## Welcome Video 
 
-<iframe width="700" height="500" src="https://share.synthesia.io/061c9fed-f336-4b3d-b967-6a1790ea9eba" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 Authors: Rafael Miranda Tassitano (PhD) and Godsway Edem Kpene
