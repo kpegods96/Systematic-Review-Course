@@ -1,7 +1,7 @@
 --- 
 title: "Systematic Review and Meta - Analysis Course"
 author: "Rafael Miranda Tassitano (PhD) and Godsway Edem Kpene"
-date: "2025-04-01"
+date: "2025-04-04"
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: [book.bib, packages.bib]
