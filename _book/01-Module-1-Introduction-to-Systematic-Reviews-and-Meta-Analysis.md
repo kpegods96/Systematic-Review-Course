@@ -55,8 +55,6 @@ NOW ENJOY THE LECTURE!
 </video>
 
 
-Kindly send your answers to the email: gkpene2@illinois.edu
-Thank you.
 
 
 ## Lecture 1.2: Developing a research question for systematic review
@@ -117,7 +115,7 @@ https://www.east.org/content/documents/east_prospero_instructions_2021.pdf
 
 A sample protocol is found here: https://www.crd.york.ac.uk/PROSPEROFILES/49176_PROTOCOL_20160910.pdf
 
-Kindly submit your draft protocols to Dr. Tassitano via rafaelmt@illinois.edu
+
 
 
 ## Lecture 1.5: Critical appraisal using AMSTAR 2
