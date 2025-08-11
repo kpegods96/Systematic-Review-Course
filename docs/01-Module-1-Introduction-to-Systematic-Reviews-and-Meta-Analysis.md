@@ -14,15 +14,18 @@ and data extraction.
 
 ##	Lesson 1.1: Overview of Systematic Reviews
 
-o	Definition and importance
+By the end of this module, you should be able to:
 
-o	Guide to registration of study protocol
+●	Define and distinguish between systematic reviews, meta-analyses, and other review types.
 
-o	PRISMA guidelines
+●	Describe the key stages in a systematic review, including research question and protocol development, literature search strategies, and data extraction. 
 
-o	Steps in conducting a systematic review.
+●	Explain the use of meta-analysis to synthesize findings across studies and its role in enhancing evidence-based conclusions.
 
-o	Assessing the methodological quality of systematic reviews - AMSTAR 2 
+●	Demonstrate knowledge of the PRISMA framework for conducting and reporting systematic reviews.
+
+●	Apply AMSTAR-2 and evaluate the overall confidence of a systematic review
+
 
 ## Lecture 1 
 
