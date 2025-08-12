@@ -1,11 +1,16 @@
-overview
+url-your-book-url-like-httpsbookdown.orgyihuibookdown
+welcome-video
 course-outcome
 module-1-introduction-to-systematic-reviews-and-meta-analysis
-lesson-1.1-overview-of-systematic-reviews
+lecture-1.2-developing-a-research-question-for-systematic-review
+lecture-1.3-guide-to-registration-of-study-protocol
+lecture-1.4-guide-to-developing-the-prisma-flowchart
+lecture-1.5-critical-appraisal-using-amstar-2
+wrap-up
+looking-ahead
 module-2-literature-search-and-data-extraction
 lesson-2.1-searching-for-literature
 lesson-2.2-screening-and-data-extraction
-lesson-2.3-title-abstract-and-full-text-screening-and-agreement-strategy
 module-3-data-preparation-and-descriptive-analysis
 lesson-3.1-preparing-data-for-meta-analysis
 lesson-3.2-descriptive-analysis-and-visualization
@@ -15,7 +20,6 @@ lesson-4.2-fixed-effect-vs.-random-effects-models
 module-5-assessing-bias-and-heterogeneity
 lesson-5.1-evaluating-risk-of-bias-in-individual-studies
 lesson-5.2-detecting-heterogeneity
-lesson-5.3-assessing-publication-bias
 module-6-visualizing-and-reporting-findings
 lesson-6.1-creating-forest-and-funnel-plots
 lesson-6.2-writing-the-systematic-review-report404-pages
