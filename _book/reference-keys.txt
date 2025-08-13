@@ -1,11 +1,14 @@
 url-your-book-url-like-httpsbookdown.orgyihuibookdown
 welcome-video
 course-outcome
-module-1-introduction-to-systematic-reviews-and-meta-analysis
-lecture-1.2-developing-a-research-question-for-systematic-review
+module-1-systematic-reviews-meta-analysis-basics
+lecture-1.2-importance-key-concepts-and-steps-involved-in-conducting-systematic-reviews-and-meta-analyses
 lecture-1.3-guide-to-registration-of-study-protocol
 lecture-1.4-guide-to-developing-the-prisma-flowchart
+prisma-flowchart-video-tutorial
 lecture-1.5-critical-appraisal-using-amstar-2
+amstar2-checklist-video-tutorial
+amstar2vis-r-package-and-shinyapp-video-tutorial
 wrap-up
 looking-ahead
 module-2-literature-search-and-data-extraction

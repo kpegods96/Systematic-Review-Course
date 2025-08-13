@@ -1,7 +1,7 @@
 --- 
 title: "Systematic Review and Meta - Analysis Course"
 author: "Godsway Edem Kpene and Rafael Miranda Tassitano (PhD)"
-date: "2025-08-11"
+date: "2025-08-12"
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: [book.bib, packages.bib]
@@ -15,9 +15,29 @@ biblio-style: apalike
 csl: chicago-fullnote-bibliography.csl
 ---
 
-# Overview 
+# Course Overview
 
+-
 ## Welcome Video 
+
+
+
+Systematic reviews and meta-analyses are essential tools for synthesizing research and guiding evidence-based practice and policy. This course provides comprehensive training in conducting systematic reviews based on best practices. Participants will learn how to approach the process from start to finish, including formulating research questions (PICO framework), developing literature search strategies, extracting and preparing data, conducting descriptive analyses, performing meta-analyses using R, and reporting findings. The meta-analysis component focuses on statistical methods for combining study results, calculating effect sizes, assessing heterogeneity (I² statistic, subgroup analysis), and detecting publication bias (funnel plots, Egger’s test). The course also includes hands-on training with software such as R and Zotero and is designed for undergraduate and graduate students in Applied Health Sciences.
+
+
+
+Authors
+
+Godsway Edem Kpene
+
+Dr. Rafael Tassitano
+
+
+
+Acknowledgment
+
+We would like to thank all members of the Lifetime Physical Activity Research Lab at the University of Illinois Urbana-Champaign (UIUC) for their feedback!
+
 
 
 <video width="700" height="500" controls>
@@ -26,13 +46,12 @@ csl: chicago-fullnote-bibliography.csl
 </video>
 
 
-Systematic reviews and meta-analyses are essential tools for synthesizing research evidence and guiding evidence-based practice and policy. This course provides comprehensive training in conducting systematic reviews based on best practices. Participants will learn how to approach the process from start to finish, including formulating research questions (PICO framework), developing literature search strategies, extracting and preparing data, conducting descriptive analyses, performing meta-analyses using R, and reporting findings. The meta-analysis component focuses on statistical methods for combining study results, calculating effect sizes, assessing heterogeneity (I² statistic, subgroup analysis), and detecting publication bias (funnel plots, Egger’s test). The course also includes hands-on training with software such as R and Zotero and is designed for undergraduate and graduate students in Applied Health Sciences.
-
+-
 ## Course outcome
 
 By the end of this course, students will be able to:
 
-1.	Define and differentiate systematic reviews, meta-analyses, and traditional literature reviews.
+1.	Define differentiate systematic review, meta-analysis, and other review types.
 
 2.	Formulate focused and answerable research questions using the PICO framework.
 
@@ -40,7 +59,7 @@ By the end of this course, students will be able to:
 
 4.	Establish criteria for study selection and conduct unbiased screening using tools like PRISMA guidelines.
 
-5.	Systematically collect relevant data from selected studies and assess study characteristics.
+5.	Extract relevant data from selected studies and assess study characteristics.
 
 6.	Apply tools such as Cochrane Risk of Bias (RoB 2), ROBINS-I for assessing study validity.
 
@@ -55,15 +74,5 @@ By the end of this course, students will be able to:
 11.	Explore subgroup analyses, meta-regression in meta-analysis.
 
 12.	Address potential biases (publication bias), conflicts of interest, and ethical concerns in systematic reviews and meta-analyses.
-
-
-
-
-Authors
-Godsway Edem Kpene
-Dr. Rafael Tassitano
-
-Acknowledgment
-We would like to thank all members of the Lifetime Physical Activity Research Lab at the University of Illinois Urbana-Champaign (UIUC) for their feedback!
 
 
