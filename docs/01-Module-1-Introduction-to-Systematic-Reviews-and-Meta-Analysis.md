@@ -1,4 +1,4 @@
-# Module 1: Systematic Reviews & Meta-Analysis Basics 
+# Module 1 : Systematic Review & Mata - Analysis Basics
 
 This module introduces the fundamentals of evidence synthesis, focusing on systematic reviews and meta-analyses. You will learn to differentiate these from other review types, explore each stage of a systematic review, and understand how meta-analysis strengthens evidence-based conclusions. We will cover the PRISMA framework for transparent reporting and apply the AMSTAR2 tool to assess review quality.
 
