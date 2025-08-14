@@ -108,6 +108,11 @@ In this lecture, we will explore how to use Zotero, a powerful reference managem
 
 Now enjoy the lecture.
 
+<video width="700" height="500" controls>
+  <source src="http://publish.illinois.edu/tassitanolab-training/files/2025/08/Lecture-2.4-Zotero.mp4">
+  Your browser does not support the video tag.
+</video>
+
 -
 ## Lecture 2.5 – Data extraction
 
@@ -115,7 +120,10 @@ Welcome to the Data Extraction Assignment lecture. In this session, you will lea
 
 Now Enjoy the Lecture 
 
-
+<video width="700" height="500" controls>
+  <source src="http://publish.illinois.edu/tassitanolab-training/files/2025/08/Lecture-2.5.mp4">
+  Your browser does not support the video tag.
+</video>
 
 
 -
@@ -124,3 +132,8 @@ Now Enjoy the Lecture
 Welcome to this lecture on duplicate removal and article screening for inclusion in systematic reviews. These early steps are essential for creating an efficient and transparent review process. You will learn how to identify and remove duplicate records using reference management tools like Zotero, EndNote, or Covidence, ensuring each study is counted only once. We’ll then cover title and abstract screening to quickly assess study eligibility, followed by full-text screening for final inclusion decisions. You will also learn best practices for documenting every decision, which is critical for reproducibility and for creating a clear PRISMA flow diagram.
 
 Now enjoy the lecture.
+
+<video width="700" height="500" controls>
+  <source src="http://publish.illinois.edu/tassitanolab-training/files/2025/08/Lecture-2.6.mp4">
+  Your browser does not support the video tag.
+</video>
