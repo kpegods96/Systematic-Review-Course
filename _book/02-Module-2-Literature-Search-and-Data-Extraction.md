@@ -114,9 +114,9 @@ Now enjoy the lecture.
 </video>
 
 -
-## Lecture 2.5 – Data extraction
+## Lecture 2.5 – Duplicate Removal and Article Screening for Inclusion 
 
-Welcome to the Data Extraction Assignment lecture. In this session, you will learn how to systematically extract key information from research studies using a standardized data extraction form. Data extraction is essential for creating structured, consistent summaries that support accurate comparison and synthesis across studies. We will walk you through what to capture, including study identification, methods, population characteristics, outcomes, and key findings, and demonstrate how to organize this information efficiently, often using an Excel spreadsheet. You’ll also get practical guidance on designing your own extraction sheet and applying it to your included studies for hands-on experience.
+Welcome to this lecture on duplicate removal and article screening for inclusion in systematic reviews. These early steps are essential for creating an efficient and transparent review process. You will learn how to identify and remove duplicate records using reference management tools like Zotero, EndNote, or Covidence, ensuring each study is counted only once. We’ll then cover title and abstract screening to quickly assess study eligibility, followed by full-text screening for final inclusion decisions. You will also learn best practices for documenting every decision, which is critical for reproducibility and for creating a clear PRISMA flow diagram.
 
 Now Enjoy the Lecture 
 
@@ -127,9 +127,11 @@ Now Enjoy the Lecture
 
 
 -
-## Lecture 2.6 – Duplicate Removal and Article Screening for Inclusion
+## Lecture 2.6 – Data extraction
 
-Welcome to this lecture on duplicate removal and article screening for inclusion in systematic reviews. These early steps are essential for creating an efficient and transparent review process. You will learn how to identify and remove duplicate records using reference management tools like Zotero, EndNote, or Covidence, ensuring each study is counted only once. We’ll then cover title and abstract screening to quickly assess study eligibility, followed by full-text screening for final inclusion decisions. You will also learn best practices for documenting every decision, which is critical for reproducibility and for creating a clear PRISMA flow diagram.
+Welcome to the Data Extraction Assignment lecture. In this session, you will learn how to systematically extract key information from research studies using a standardized data extraction form. Data extraction is essential for creating structured, consistent summaries that support accurate comparison and synthesis across studies. We will walk you through what to capture, including study identification, methods, population characteristics, outcomes, and key findings, and demonstrate how to organize this information efficiently, often using an Excel spreadsheet. You’ll also get practical guidance on designing your own extraction sheet and applying it to your included studies for hands-on experience.
+
+
 
 Now enjoy the lecture.
 
