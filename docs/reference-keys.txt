@@ -17,8 +17,8 @@ lesson-2.2-developing-a-search-strategy-with-boolean-operators
 links-to-the-discussed-article-and-other-reading-materials
 search-query-demonstration-using-pubmed
 lecture-2.4-use-of-zotero
-lecture-2.5-data-extraction
-lecture-2.6-duplicate-removal-and-article-screening-for-inclusion
+lecture-2.5-duplicate-removal-and-article-screening-for-inclusion
+lecture-2.6-data-extraction
 module-3-data-preparation-and-descriptive-analysis
 lesson-3.1-preparing-data-for-meta-analysis
 lesson-3.2-descriptive-analysis-and-visualization
