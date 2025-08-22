@@ -1,7 +1,7 @@
 --- 
 title: "Systematic Review and Meta - Analysis Course"
 author: "Godsway Edem Kpene and Rafael Miranda Tassitano (PhD)"
-date: "2025-08-14"
+date: "2025-08-22"
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: [book.bib, packages.bib]
@@ -15,40 +15,45 @@ biblio-style: apalike
 csl: chicago-fullnote-bibliography.csl
 ---
 
-# Course Overview
 
-## Welcome Video 
+
+# Welcome!
+<br>
+
+This is the website for the **Systematic Review and Meta-Analysis** course, an initiative of the [**Lifetime Physical Activity Research Lab**](https://publish.illinois.edu/tassitanolab/) at the University of Illinois Urbana-Champaign. We believe the best way to learn is by teaching, and that learning is a collaborative journey between mentors and mentees. From start to finish, the development process was guided by this perspective. We hope that, along the way, you’ll take the opportunity to share your own insights and contribute to this community of learning. Your feedback is valued and will be acknowledged in future updates to the course. A feedback link is provided at the end of each module.
+
+
+<br>
+
+**Authors:** [Godsway Edem Kpene](https://www.linkedin.com/in/godsway-edem-kpene/), and Dr. Rafael Tassitano
+
+
+**Acknowledgment:** We would like to thank all members of the Lifetime Physical Activity Research Lab at the University of Illinois Urbana-Champaign (UIUC) for their feedback throughout the process!
+
+<br>
+
+
+**Course Overview**
 
 
 
 Systematic reviews and meta-analyses are essential tools for synthesizing research and guiding evidence-based practice and policy. This course provides comprehensive training in conducting systematic reviews based on best practices. Participants will learn how to approach the process from start to finish, including formulating research questions (PICO framework), developing literature search strategies, extracting and preparing data, conducting descriptive analyses, performing meta-analyses using R, and reporting findings. The meta-analysis component focuses on statistical methods for combining study results, calculating effect sizes, assessing heterogeneity (I² statistic, subgroup analysis), and detecting publication bias (funnel plots, Egger’s test). The course also includes hands-on training with software such as R and Zotero and is designed for undergraduate and graduate students in Applied Health Sciences.
 
+<br>
 
 
-Authors
-
-Godsway Edem Kpene
-
-Dr. Rafael Tassitano
-
-
-
-Acknowledgment
-
-We would like to thank all members of the Lifetime Physical Activity Research Lab at the University of Illinois Urbana-Champaign (UIUC) for their feedback!
-
-
+**Welcome Video**
 
 <video width="700" height="500" controls>
   <source src="http://publish.illinois.edu/tassitanolab-training/files/2025/08/Intro_Video.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
+<br>
 
--
-## Course outcome
+**What you will learn**
 
-By the end of this course, students will be able to:
+***By the end of this course, you should be able to:***
 
 1.	Define differentiate systematic review, meta-analysis, and other review types.
 
