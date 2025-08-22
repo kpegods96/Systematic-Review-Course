@@ -1,11 +1,12 @@
 # Module 2: Literature Search and Data Extraction 
 
+<br>
 
-Welcome to Module 2 of our systematic review course. By the end of this module, you will be equipped with the skills to design and conduct a comprehensive literature search, construct precise search queries, and select the most relevant databases for your research. You will learn how to screen and filter results using clear eligibility criteria, manage citations in Zotero, and systematically extract data with standardized forms. We will also explore how to assess methodological quality, evaluate risk of bias, address common extraction issues, and ensure transparency through meticulous documentation of every step in your review process.
+Welcome to Module 2 of our Systematic Review and Meta - Analysis course. By the end of this module, you will be equipped with the skills to design and conduct a comprehensive literature search, construct precise search queries, and select the most relevant databases for your research. You will learn how to screen and filter results using clear eligibility criteria, manage citations in Zotero, and systematically extract data with standardized forms. We will also explore how to assess methodological quality, evaluate risk of bias, address common extraction issues, and ensure transparency through meticulous documentation of every step in your review process.
 
+<br>
 
-
-By the end of this module, students should be able to:
+***By the end of this module, students should be able to:***
 
 •	Explain the significance of a comprehensive literature search in systematic reviews and evidence-based research.
 
@@ -25,6 +26,7 @@ By the end of this module, students should be able to:
 
 •	Maintain transparency and reproducibility by properly documenting search strategies and data extraction steps.
 
+<br>
 
 -
 ## Lesson 2.1: The role of literature searches in systematic reviews
@@ -40,7 +42,17 @@ Now enjoy the lecture
 </video>
 
 
+<br><br>
 
+**Additional Sources:**
+
+
+<br>
+
+**Lecture Assignment:**
+
+
+<br><br>
 
 -
 ## Lesson 2.2: Developing a search strategy with Boolean operators
@@ -54,8 +66,21 @@ Now enjoy the lecture
   Your browser does not support the video tag.
 </video>
 
+<br><br>
+
 Remember to perform your search in more than one databases. Keep the outputs that you obtain. They will be needed for your assignment in Lecture 2.5.
 
+<br>
+
+**Additional Sources:**
+
+
+<br>
+
+**Lecture Assignment:**
+
+
+<br><br>
 
 -
 ##	Lesson 2.3: Justifying database selection for research  
@@ -71,9 +96,10 @@ Now enjoy the lecture
   Your browser does not support the video tag.
 </video>
 
+<br><br>
 
--
-## Links to the discussed article and other reading materials 
+
+**Additional Sources:**
 
 You can find below the link to the article we mentioned in the lecture as well as three other links which will guide your justification and choice of databases for your literature search for your review. 
 
@@ -85,6 +111,8 @@ You can find below the link to the article we mentioned in the lecture as well a
 
 4. https://subjectguides.lib.neu.edu/systematicreview/selectingdatabases
 
+
+<br>
 
 -
 ## Search Query Demonstration using PubMed
@@ -99,7 +127,18 @@ Now enjoy the lecture
   Your browser does not support the video tag.
 </video>
 
+<br><br>
 
+
+**Additional Sources:**
+
+<br>
+
+
+**Lecture Assignment:**
+
+
+<br><br>
 
 -
 ## Lecture 2.4 – Use of Zotero
@@ -112,6 +151,20 @@ Now enjoy the lecture.
   <source src="http://publish.illinois.edu/tassitanolab-training/files/2025/08/Lecture-2.4-Zotero.mp4">
   Your browser does not support the video tag.
 </video>
+
+
+<br><br>
+
+
+**Additional Sources:**
+
+
+<br>
+
+**Lecture Assignment:**
+
+
+<br><br>
 
 -
 ## Lecture 2.5 – Duplicate Removal and Article Screening for Inclusion 
@@ -126,6 +179,20 @@ Now Enjoy the Lecture
 </video>
 
 
+<br><br>
+
+
+**Additional Sources:**
+
+
+<br>
+
+**Lecture Assignment:**
+
+
+
+<br><br>
+
 -
 ## Lecture 2.6 – Data extraction
 
@@ -139,3 +206,135 @@ Now enjoy the lecture.
   <source src="http://publish.illinois.edu/tassitanolab-training/files/2025/08/Lecture-2.6.mp4">
   Your browser does not support the video tag.
 </video>
+
+
+<br><br>
+
+
+**Additional Sources:**
+
+
+<br>
+
+**Lecture Assignment:**
+
+
+
+<br><br>
+
+-
+## Lecture 2.7 – Critical Appraisal Assignment 
+
+Hello everyone, and welcome! In this lecture, we’ll guide you through your Critical Appraisal assignment, an essential step in assessing the quality of studies for your systematic review. You’ll learn to evaluate risk of bias using two widely recognized tools: RoB 2 for randomized trials and ROBINS-I for non-randomized studies. As introduced in Module 1, other tools like AMSTAR 2 may be more suitable for certain study types, such as systematic reviews. By the end, you’ll be ready to critically appraise your included studies—or, if you’re here for informational purposes, apply these tools to five articles you’ve already found.
+
+Now enjoy the lecture 
+
+<video width="700" height="500" controls>
+  <source src="http://publish.illinois.edu/tassitanolab-training/files/2025/08/Lecture-2.7.mp4">
+  Your browser does not support the video tag.
+</video>
+
+<br><br>
+
+**Additional Sources:**
+
+-
+***Links to RoB 2 and ROBINS-I Checklists***
+
+Find below the links to download the checklists 
+
+[RoB 2](https://sites.google.com/site/riskofbiastool/welcome/rob-2-0-tool/current-version-of-rob-2?authuser=0)
+
+[ROBINS-I](https://sites.google.com/site/riskofbiastool/welcome/home?authuser=0)
+
+***Note: You can also reach us for a copy if you are finding any difficulty assessing the checklists.*** 
+
+
+<br>
+
+
+
+**Lecture Assignment:**
+
+
+<br><br>
+
+
+-
+## Lecture 2.8 – Troubleshooting Data Extraction 
+
+Hi everyone! In this lecture, we’ll focus on troubleshooting errors in data extraction, an essential skill for conducting high-quality systematic reviews. You’ll learn how to detect inconsistencies, such as variations in units, mislabeled outcomes, or mismatched timepoints, and apply structured methods to standardize your data. Using practical examples and a sample dataset with deliberate inconsistencies, you’ll practice identifying errors and proposing corrections. We’ll also highlight the value of peer review in improving accuracy and consistency. By the end of this session, you’ll be equipped to ensure your extracted data is reliable, harmonized, and ready for trustworthy analysis.
+
+
+<video width="700" height="500" controls>
+  <source src="http://publish.illinois.edu/tassitanolab-training/files/2025/08/Lecture-2.8.mp4">
+  Your browser does not support the video tag.
+</video>
+
+
+<br><br>
+
+***If you would like to receive the sample dataset featured in this video for your own practice, please send us an email.***
+
+
+<br>
+
+**Additional Sources:**
+
+<br>
+
+
+**Lecture Assignment:**
+
+
+<br><br>
+
+
+-
+## Lecture 2.9 – From Search to Extraction Report 
+
+Welcome! In this lecture, we’ll focus on a vital skill for producing high-quality, reproducible research—documenting your search strategies and data extraction methods with clarity and precision. By mastering this, you ensure your work can be understood, verified, and replicated, enhancing both transparency and credibility. You’ll learn how to structure a detailed methodology section, describing exactly when, where, and how you searched for studies, and how you extracted and managed your data. Following established standards like PRISMA, you’ll be equipped to create a methods report that is clear, complete, and aligned with best practices—laying a solid foundation for your upcoming analyses.
+
+Now enjoy the lecture
+
+<video width="700" height="500" controls>
+  <source src="http://publish.illinois.edu/tassitanolab-training/files/2025/08/Lecture-2.9.mp4">
+  Your browser does not support the video tag.
+</video>
+
+
+<br><br>
+
+
+**Additional Sources:**
+
+<br>
+
+
+**Lecture Assignment:**
+
+<br><br>
+
+
+-
+## Wrap-up
+
+In this module, you explored key academic databases, including PubMed, Scopus, and Web of Science. You learned how to develop effective search strategies using Boolean operators and controlled vocabularies such as MeSH terms. The module also introduced you to reference management tools like Zotero for organizing and removing duplicates. Additionally, you examined methods for assessing bias in studies and discussed common challenges in data extraction during systematic reviews and meta-analyses.
+
+
+<br>
+
+-
+## Looking ahead
+
+In the next module, you will delve into key statistical concepts essential for meta-analysis. You’ll learn about effect sizes—what they represent, how they are calculated, and how to interpret them across studies. The module will also cover strategies for handling missing data, a common challenge in systematic reviews. Additionally, you’ll explore sources of heterogeneity among studies and learn how to interpret statistical measures such as I², Cochran’s Q, and p-values to assess variability and consistency in meta-analytic findings.
+
+<br>
+
+**Kindly click this link below to provide feedback to improve this module**
+
+[**Click here to provide feedback**](link)
+
+
+
+Thank you for taking time to provide your feedback to improve the course. See you on the next module. 

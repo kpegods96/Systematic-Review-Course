@@ -1,7 +1,5 @@
 url-your-book-url-like-httpsbookdown.orgyihuibookdown
-welcome-video
-course-outcome
-module-1-systematic-review-mata---analysis-basics
+module-1-systematic-review-meta---analysis-basics
 lecture-1.2-importance-key-concepts-and-steps-involved-in-conducting-systematic-reviews-and-meta-analyses
 lecture-1.3-guide-to-registration-of-study-protocol
 lecture-1.4-guide-to-developing-the-prisma-flowchart
@@ -14,11 +12,15 @@ looking-ahead
 module-2-literature-search-and-data-extraction
 lesson-2.1-the-role-of-literature-searches-in-systematic-reviews
 lesson-2.2-developing-a-search-strategy-with-boolean-operators
-links-to-the-discussed-article-and-other-reading-materials
 search-query-demonstration-using-pubmed
 lecture-2.4-use-of-zotero
 lecture-2.5-duplicate-removal-and-article-screening-for-inclusion
 lecture-2.6-data-extraction
+lecture-2.7-critical-appraisal-assignment
+lecture-2.8-troubleshooting-data-extraction
+lecture-2.9-from-search-to-extraction-report
+wrap-up-1
+looking-ahead-1
 module-3-data-preparation-and-descriptive-analysis
 lesson-3.1-preparing-data-for-meta-analysis
 lesson-3.2-descriptive-analysis-and-visualization
