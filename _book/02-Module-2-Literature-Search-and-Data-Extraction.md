@@ -103,13 +103,10 @@ Now enjoy the lecture
 
 You can find below the link to the article we mentioned in the lecture as well as three other links which will guide your justification and choice of databases for your literature search for your review. 
 
-1. https://systematicreviewsjournal.biomedcentral.com/articles/10.1186/s13643-017-0644-y 
+1. [Optimal database combinations for literature searches in systematic reviews: a prospective exploratory study](https://systematicreviewsjournal.biomedcentral.com/articles/10.1186/s13643-017-0644-y) 
 
-2. https://pmc.ncbi.nlm.nih.gov/articles/PMC10248995/ 
+2. [Guidance to best tools and practices for systematic reviews](https://pmc.ncbi.nlm.nih.gov/articles/PMC10248995/) 
 
-3. https://guides.library.msstate.edu/c.php?g=898662&p=9375811#s-lg-box-29928133 
-
-4. https://subjectguides.lib.neu.edu/systematicreview/selectingdatabases
 
 
 <br>
@@ -333,7 +330,7 @@ In the next module, you will delve into key statistical concepts essential for m
 
 **Kindly click this link below to provide feedback to improve this module**
 
-[**Click here to provide feedback**](link)
+[**Click here to provide feedback**](https://surveys.illinois.edu/sec/229157337)
 
 
 
