@@ -22,7 +22,7 @@ lecture-2.9-from-search-to-extraction-report
 wrap-up-1
 looking-ahead-1
 module-3-data-preparation-and-descriptive-analysis
-lesson-3.1-preparing-data-for-meta-analysis
+lesson-3.1-handling-missing-data
 lesson-3.2-descriptive-analysis-and-visualization
 module-4-performing-a-meta-analysis-in-r
 lesson-4.1-introduction-to-meta-analysis

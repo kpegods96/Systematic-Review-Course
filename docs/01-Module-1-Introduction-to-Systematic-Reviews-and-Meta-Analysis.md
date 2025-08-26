@@ -42,80 +42,14 @@ This lecture introduces the fundamentals of systematic reviews, a cornerstone of
 
 1. Link to the [**UIUC library**](https://guides.library.illinois.edu/SR-ES/Typology)
 
-2. [**Types of Review Articles**](https://subjectguides.uwaterloo.ca/c.php?g=695509&p=4933476)
+2. [A typology of reviews: an analysis of 14 review types and
+associated methodologies](http://publish.illinois.edu/tassitanolab-training/files/2025/08/Grant-et-al.2009.-A-typology-of-reviews-an-analysis-of-14-review-types-andassociated-methodologies.pdf)
 
 <br>
 
 **Lecture Assignment:**
 
-What is a systematic review and state some of its key characteristics. 
-
-***Instruction for submission:*** 
-
-**Title:** What is a Systematic Review and its Key Characteristics
-
-**Task**
-
-
-***Write a short essay that:***
-
--
-Defines what a systematic review is.
-
--
-Describes at least three key characteristics of systematic reviews (e.g., structured process, comprehensive search, critical appraisal, reproducibility).
-
--
-Provides at least one reference (APA, MLA, or your preferred style).
-
-
-**Format**
-
--
-**Length:** 300–500 words
-
--
-**Font:** Times New Roman, 12 pt
-
--
-**Line spacing:** 2.0
-
--
-**File format:** Word (.docx) or PDF (.pdf)
-
-
-**Submission Guidelines**
-
--
-Save your file with the naming format: LastName_FirstName_SystematicReview.docx
-
-
--
-Email your assignment to the lab email address at  
-
-
--
-Deadline: TBD
-
-
-
-**Grading Criteria**
-
--
-Definition clarity – 30%
-
-
--
-Explanation of key characteristics – 40%
-
-
--
-Organization, grammar, and style – 20%
-
-
--
-Citation/reference – 10%
-
+Click [here]( http://publish.illinois.edu/tassitanolab-training/files/2025/08/Module-1-Lecture-1.1-assignmeny.pdf) to download Assignment 1 
 
 <br><br>
 
@@ -140,12 +74,13 @@ Welcome back! In this lecture, we explore the foundations of systematic reviews�
 
 **Additional Sources:**
 
+[Daily steps and health outcomes in adults: a systematic review and dose-response meta-analysis](http://publish.illinois.edu/tassitanolab-training/files/2025/08/Ding-Ding_2025_Daily-steps-and-health-outcomes-in-adults-a-systematic-review.pdf)
 
 
 
 **Lecture Assignment:**
 
-
+Click [here]( http://publish.illinois.edu/tassitanolab-training/files/2025/08/Module-1-Lecture-1.2-assignment.pdf) to download Assignment 2
 
 <br><br>
 
@@ -171,7 +106,7 @@ Enjoy the walk through the PROSPERO protocol registration process now.
 **Additional Sources:**
 
 
-
+<br>
 
 **Lecture Assignment:**
 
@@ -324,7 +259,7 @@ In the next module, you will build on the foundational concepts of systematic re
 
 **Kindly click this link below to provide feedback to improve this module**
 
-[**Click here to provide feedback**](link)
+[**Click here to provide feedback**](https://surveys.illinois.edu/sec/478040384)
 
 
 

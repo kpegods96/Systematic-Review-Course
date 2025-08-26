@@ -1,7 +1,7 @@
 --- 
 title: "Systematic Review and Meta - Analysis Course"
 author: "Godsway Edem Kpene and Rafael Miranda Tassitano (PhD)"
-date: "2025-08-22"
+date: "2025-08-25"
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: [book.bib, packages.bib]
@@ -25,7 +25,7 @@ This is the website for the **Systematic Review and Meta-Analysis** course, an i
 
 <br>
 
-**Authors:** [Godsway Edem Kpene](https://www.linkedin.com/in/godsway-edem-kpene/), and Dr. Rafael Tassitano
+**Authors:** [Godsway Edem Kpene](https://www.linkedin.com/in/godsway-edem-kpene/), and [Dr. Rafael Tassitano](https://publish.illinois.edu/tassitanolab/lab-director/)
 
 
 **Acknowledgment:** We would like to thank all members of the Lifetime Physical Activity Research Lab at the University of Illinois Urbana-Champaign (UIUC) for their feedback throughout the process!
