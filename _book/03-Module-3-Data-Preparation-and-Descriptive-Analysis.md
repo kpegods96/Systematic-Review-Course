@@ -31,8 +31,104 @@ Now enjoy the lecture
 
 <br><br>
 
-## Lesson 3.2: Descriptive Analysis and Visualization
+-
+## Lesson 3.2: Exploring Heterogeneity in Systematic Review Data
 
-o	Summary statistics using dplyr and tidyverse
+Welcome to today’s lecture on interpreting heterogeneity in meta-analysis. When we combine results from multiple studies, we rarely find identical outcomes. Instead, differences often emerge due to variations in study design, populations, or interventions. This variability, known as heterogeneity, is a critical concept to understand because it influences how much confidence we can place in pooled results. In this session, we’ll explore statistical tools such as Cochran’s Q, its p-value, and the I² statistic, as well as visual tools like the forest plot. These methods together provide a clearer picture of study consistency and overall evidence strength.
 
-o	Visualizing study characteristics (bar charts, histograms)
+Now enjoy the lecture
+
+
+<video width="700" height="500" controls>
+  <source src="http://publish.illinois.edu/tassitanolab-training/files/2025/08/Lecture-3.2.mp4">
+  Your browser does not support the video tag.
+</video>
+ 
+
+<br><br>
+
+
+
+**Additional Sources:**
+
+
+<br>
+
+**Lecture Assignment:**
+
+
+
+<br><br>
+
+-
+## Lecture 3.3 -  Effect size in Meta - Analysis 
+
+Welcome! In this short lecture, we’ll dive into the concept of effect size, a cornerstone of meta-analysis. Effect size helps us move beyond statistical significance by showing the magnitude and practical importance of an intervention’s impact across studies. Unlike p-values, it provides a standardized measure that makes results comparable, even when different scales are used. We’ll explore common metrics such as Cohen’s d, Hedges’ g, odds ratios, and correlations, highlighting when and how to use them. By the end, you’ll understand why effect sizes are essential for interpreting and synthesizing research findings meaningfully.
+
+Now enjoy the lecture 
+
+<video width="700" height="500" controls>
+  <source src="http://publish.illinois.edu/tassitanolab-training/files/2025/08/Lecture-3.3.mp4">
+  Your browser does not support the video tag.
+</video>
+
+<br><br>
+
+**Additional Sources:**
+
+
+<br>
+
+**Lecture Assignment:**
+
+For your assignment, kindly download this [simulated dataset](link) and the accompanying [r codes](link) and run standard mean different of a post - test results of a study involving two groups.
+
+<br><br>
+
+
+-
+## Lecture 3.4 - Fixed and Random Effect Models 
+
+Welcome! In this lecture, we’ll explore two fundamental statistical models in meta-analysis: the fixed effect model and the random effects model. Understanding these models is crucial because they shape how we interpret pooled results across studies. While the fixed effect model assumes all studies estimate the same underlying effect, the random effects model accounts for variability between studies, offering more generalizable conclusions. We’ll look at the assumptions behind each, when they should be applied, and examples of their use in real research. By the end, you’ll be equipped to choose the most appropriate model for your analyses.
+
+Now enjoy the lecture 
+
+<video width="700" height="500" controls>
+  <source src="http://publish.illinois.edu/tassitanolab-training/files/2025/08/Lecture-3.4.mp4">
+  Your browser does not support the video tag.
+</video>
+
+
+<br><br>
+
+**Additional Sources:**
+
+
+<br>
+
+**Lecture Assignment:**
+
+
+
+<br><br>
+
+**Wrap-up**
+
+In this module, you gained hands-on experience in extracting meta-data from selected studies, a critical step in preparing for meta-analysis. You also practiced how to calculate effect sizes using R code, deepening your understanding of how study outcomes are quantitatively synthesized. Additionally, the module explored the underlying assumptions and appropriate applications of both fixed-effect and random-effects models, helping you develop the skills to select the most suitable model based on study characteristics and the presence of heterogeneity.
+
+<br>
+
+**Looking ahead**
+
+In the next module, you will engage in more hands-on practice using R to strengthen your practical skills in meta-analysis. With the aid of sample datasets, you will learn how to compute pooled prevalence estimates, perform pre–post test comparisons, analyze single-group pre–post test data, and conduct binary outcome post-test meta-analyses. These exercises are designed to help you apply key statistical techniques to real-world scenarios. By the end of the module, you will be equipped to confidently apply these methods to your own systematic review, enhancing both the rigor and reproducibility of your analysis.
+
+<br>
+
+
+**Kindly click this link below to provide feedback to improve this module**
+
+[**Click here to provide feedback**](link)
+
+
+
+Thank you for taking time to provide your feedback to improve the course. See you on the next module. 
