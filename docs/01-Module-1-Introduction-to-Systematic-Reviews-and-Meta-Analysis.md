@@ -80,7 +80,7 @@ Welcome back! In this lecture, we explore the foundations of systematic reviewsâ
 
 **Lecture Assignment:**
 
-Click [here]( http://publish.illinois.edu/tassitanolab-training/files/2025/08/Module-1-Lecture-1.2-assignment.pdf) to download Assignment 2
+Click [here](http://publish.illinois.edu/tassitanolab-training/files/2025/08/Module-1-Lecture-1.2-assignment.pdf) to download Assignment 2
 
 <br><br>
 
@@ -166,6 +166,8 @@ A sample protocol is found [**here**](https://www.crd.york.ac.uk/PROSPEROFILES/4
 <br>
 
 **Lecture Assignment:**
+
+Click [here](http://publish.illinois.edu/tassitanolab-training/files/2025/08/Module-1-Lecture-1.4-assignment.pdf) to download Assignment 4
 
 
 <br><br>

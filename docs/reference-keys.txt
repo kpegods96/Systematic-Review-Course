@@ -23,7 +23,9 @@ wrap-up-1
 looking-ahead-1
 module-3-data-preparation-and-descriptive-analysis
 lesson-3.1-handling-missing-data
-lesson-3.2-descriptive-analysis-and-visualization
+lesson-3.2-exploring-heterogeneity-in-systematic-review-data
+lecture-3.3---effect-size-in-meta---analysis
+lecture-3.4---fixed-and-random-effect-models
 module-4-performing-a-meta-analysis-in-r
 lesson-4.1-introduction-to-meta-analysis
 lesson-4.2-fixed-effect-vs.-random-effects-models

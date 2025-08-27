@@ -1,7 +1,7 @@
 --- 
 title: "Systematic Review and Meta - Analysis Course"
 author: "Godsway Edem Kpene and Rafael Miranda Tassitano (PhD)"
-date: "2025-08-25"
+date: "2025-08-26"
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: [book.bib, packages.bib]
@@ -41,6 +41,24 @@ Systematic reviews and meta-analyses are essential tools for synthesizing resear
 
 <br>
 
+
+**Prerequisite**
+
+Students should have R and RStudio installed on their computers and be familiar with basic R concepts, including running scripts, working with variables, and using functions. R can be downloaded [**here**](https://cran.r-project.org) and RStudio [**here**](https://www.rstudio.com/products/rstudio/download). A basic understanding of data manipulation and visualization in R is recommended. A short tutorial, including helpful resources, can be found here:
+
+1. [Just some helpful first steps](https://education.rstudio.com/learn/beginner/).
+
+2. [RStudio “cheatsheets” for various of R packages and applications](https://www.rstudio.com/resources/cheatsheets/).
+
+3. [Data analysis and visualization in R](https://datacarpentry.org/R-ecology-lesson/index.html).
+
+4. [Reference for all new data science students](https://r4ds.had.co.nz/).
+
+5. [Introductory statistics help](https://cran.r-project.org/doc/contrib/Verzani-SimpleR.pdf).
+
+6. [Really useful for first-time students- tutorials that run directly in RStudio](https://swirlstats.com/).
+
+<br>
 
 **Welcome Video**
 
