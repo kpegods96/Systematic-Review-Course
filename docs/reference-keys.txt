@@ -9,6 +9,7 @@ amstar2-checklist-video-tutorial
 amstar2vis-r-package-and-shinyapp-video-tutorial
 wrap-up
 looking-ahead
+module-1---quiz
 module-2-literature-search-and-data-extraction
 lesson-2.1-the-role-of-literature-searches-in-systematic-reviews
 lesson-2.2-developing-a-search-strategy-with-boolean-operators
@@ -21,11 +22,13 @@ lecture-2.8-troubleshooting-data-extraction
 lecture-2.9-from-search-to-extraction-report
 wrap-up-1
 looking-ahead-1
+module-2---quiz
 module-3-data-preparation-and-descriptive-analysis
 lesson-3.1-handling-missing-data
 lesson-3.2-exploring-heterogeneity-in-systematic-review-data
 lecture-3.3---effect-size-in-meta---analysis
 lecture-3.4---fixed-and-random-effect-models
+module-3---quiz
 module-4-performing-a-meta-analysis-in-r
 lesson-4.1-introduction-to-meta-analysis
 lesson-4.2-fixed-effect-vs.-random-effects-models

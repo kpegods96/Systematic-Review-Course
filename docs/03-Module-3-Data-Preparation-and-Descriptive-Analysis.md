@@ -123,6 +123,16 @@ In this module, you gained hands-on experience in extracting meta-data from sele
 In the next module, you will engage in more hands-on practice using R to strengthen your practical skills in meta-analysis. With the aid of sample datasets, you will learn how to compute pooled prevalence estimates, perform pre–post test comparisons, analyze single-group pre–post test data, and conduct binary outcome post-test meta-analyses. These exercises are designed to help you apply key statistical techniques to real-world scenarios. By the end of the module, you will be equipped to confidently apply these methods to your own systematic review, enhancing both the rigor and reproducibility of your analysis.
 
 <br>
+-
+## Module 3 - Quiz 
+
+This quiz is designed to help you review and reinforce the key concepts covered in the first module. Take your time to read each question carefully, and apply the knowledge you’ve gained from the lectures and hands-on activities. Remember, the quiz is meant to support your learning, so it’s a great way to identify areas you may want to revisit before moving on.
+
+All the best, and enjoy testing your understanding!
+
+[**Begin your Module 3 Quiz Now**](link)
+
+<br>
 
 
 **Kindly click this link below to provide feedback to improve this module**

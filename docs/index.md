@@ -39,6 +39,12 @@ This is the website for the **Systematic Review and Meta-Analysis** course, an i
 
 Systematic reviews and meta-analyses are essential tools for synthesizing research and guiding evidence-based practice and policy. This course provides comprehensive training in conducting systematic reviews based on best practices. Participants will learn how to approach the process from start to finish, including formulating research questions (PICO framework), developing literature search strategies, extracting and preparing data, conducting descriptive analyses, performing meta-analyses using R, and reporting findings. The meta-analysis component focuses on statistical methods for combining study results, calculating effect sizes, assessing heterogeneity (I² statistic, subgroup analysis), and detecting publication bias (funnel plots, Egger’s test). The course also includes hands-on training with software such as R and Zotero and is designed for undergraduate and graduate students in Applied Health Sciences.
 
+Before we begin, we would like to provide some important guidance on how to engage with the material. If you are taking this course for instructional purposes, you are encouraged to follow along with the lectures and practice using the simulated examples provided. These will give you hands-on experience and help you understand the process of conducting a systematic review.
+
+However, if you are enrolling with the intention of conducting your own systematic review, we recommend reaching out to us directly via email (**tassitano-lab@illinois.edu**) for additional support and guidance. It is also important to note that, at this time, the discussion component of the course is limited to members of the Illini Physical Activity Initiative. Finally, please keep in mind that the final project applies specifically to learners who are actively conducting their own systematic review.
+
+We look forward to your participation and hope this course equips you with valuable skills and insights.
+
 <br>
 
 
