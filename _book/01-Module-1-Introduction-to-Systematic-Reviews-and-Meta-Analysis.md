@@ -36,7 +36,7 @@ This module introduces the fundamentals of evidence synthesis, focusing on syste
 This lecture introduces the fundamentals of systematic reviews, a cornerstone of evidence-based research. You will learn what a systematic review is, why it is vital for synthesizing research, and how it informs decision-making across disciplines. We will cover the process and benefits of registering your study protocol to enhance transparency and minimize bias. The session will also introduce the PRISMA guidelines for transparent reporting, outline the essential steps in conducting a systematic review, and present AMSTAR-2, a widely used tool for assessing methodological quality. By the end, you will understand both the principles and practical steps for conducting rigorous reviews.
  
 
-
+Now Enjoy the Lecture!
 
 <video width="700" height="500" controls>
   <source src="http://publish.illinois.edu/tassitanolab-training/files/2025/08/Lecture-1.1-Overview-of-Systematic-reviews.mp4" type="video/mp4">
@@ -58,7 +58,9 @@ associated methodologies](http://publish.illinois.edu/tassitanolab-training/file
 
 **Lecture Assignment:**
 
-Click [here]( http://publish.illinois.edu/tassitanolab-training/files/2025/08/Module-1-Lecture-1.1-assignmeny.pdf) to download Assignment 1 
+Click the link below to view the questions and instructions for Assignment 1 in Module 1. Make sure to read through everything carefully before you get started!
+
+[***Begin Module 1 – Assignment 1***](http://publish.illinois.edu/tassitanolab-training/files/2025/08/Module-1-Lecture-1.1-assignmeny.pdf) 
 
 <br><br>
 
@@ -69,7 +71,7 @@ Click [here]( http://publish.illinois.edu/tassitanolab-training/files/2025/08/Mo
 Welcome back! In this lecture, we explore the foundations of systematic reviews—their purpose, process, and role in evidence-based decision-making. We’ll begin with the pyramid of evidence, illustrating how study quality rises and risk of bias falls as we move upward. You’ll see how systematic reviews differ from traditional literature reviews, why they matter, and how they guide policy and practice. Using the 10,000 steps case study, we’ll examine how rigorous synthesis clarifies evidence, challenges assumptions, and informs recommendations. By the end, you’ll appreciate the systematic review’s power to produce transparent, high-quality conclusions that drive meaningful change.
 
 
-
+Now Enjoy the Lecture!
 
 
 <video width="700" height="500" controls>
@@ -89,7 +91,9 @@ Welcome back! In this lecture, we explore the foundations of systematic reviews�
 
 **Lecture Assignment:**
 
-Click [here](http://publish.illinois.edu/tassitanolab-training/files/2025/08/Module-1-Lecture-1.2-assignment.pdf) to download Assignment 2
+Click the link below to view the questions and instructions for Assignment 2 in Module 1. Make sure to read through everything carefully before you get started!
+
+[***Begin Module 1 – Assignment 2***](http://publish.illinois.edu/tassitanolab-training/files/2025/08/Module-1-Lecture-1.2-assignment.pdf)
 
 <br><br>
 
@@ -98,7 +102,7 @@ Click [here](http://publish.illinois.edu/tassitanolab-training/files/2025/08/Mod
 
 It’s great if you already have a research question in mind. In this course, you’re not required to complete a full systematic review, but you’ll have the opportunity to follow along and learn the complete process. You can choose to apply these steps to your own topic or simply explore the examples we provide. In this lecture, we’ll guide you through the PROSPERO registration process, step by step. Preparation is key—while some fields are optional, completing certain sections will strengthen your protocol. We’ll highlight these essential areas so you can register with clarity, accuracy, and confidence.
 
-Enjoy the walk through the PROSPERO protocol registration process now. 
+Now Enjoy the Lecture! 
 
 
 
@@ -117,9 +121,9 @@ Enjoy the walk through the PROSPERO protocol registration process now.
 
 <br>
 
-**Lecture Assignment:**
+**Lecture Practice Assignment:**
 
-
+Now it’s your turn! If you are working on your own systematic review, follow the steps shown in the video above to register your study. This hands-on practice will help you apply the concepts from the course and gain experience with the registration process. If you are taking this course for instructional purposes only, you may simply proceed to the next lecture.
 
 <br><br>
 
@@ -128,8 +132,7 @@ Enjoy the walk through the PROSPERO protocol registration process now.
 
 In this lecture, we will explore the PRISMA (Preferred Reporting Items for Systematic Reviews and Meta-Analyses) flowchart, a standardized tool used to document the study selection process in systematic reviews. The PRISMA flowchart helps ensure transparency by visually showing how many records were identified, screened, excluded, and ultimately included in the final analysis. We’ll walk through each step of the diagram, explaining its purpose and importance. Then, we’ll demonstrate how to generate a PRISMA flowchart in R using a dedicated package, enabling you to create reproducible, publication-ready diagrams directly from your review data.
 
-Now watch this lecture to know more: 
-
+Now Enjoy the Lecture!
 
 
 
@@ -164,7 +167,7 @@ Having gained the background knowledge about the PRISMA flowchart, now take some
 
 **Additional Sources:**
 
-Use this link below to access the PROSPERO instructions for a systematic review and then draft a study protocol for your own study
+Here are the instruction and sample protocol links provided by PROSPERO to guide the development of a systematic review: 
 
 -
 [**Instructions**](https://www.east.org/content/documents/east_prospero_instructions_2021.pdf) 
@@ -176,7 +179,9 @@ A sample protocol is found [**here**](https://www.crd.york.ac.uk/PROSPEROFILES/4
 
 **Lecture Assignment:**
 
-Click [here](http://publish.illinois.edu/tassitanolab-training/files/2025/08/Module-1-Lecture-1.4-assignment.pdf) to download Assignment 4
+Click the link below to view the questions and instructions for Assignment 4 in Module 1. Make sure to read through everything carefully before you get started!
+
+[***Begin Module 1 – Assignment 4***](http://publish.illinois.edu/tassitanolab-training/files/2025/08/Module-1-Lecture-1.4-assignment.pdf)
 
 
 <br><br>
@@ -186,8 +191,7 @@ Click [here](http://publish.illinois.edu/tassitanolab-training/files/2025/08/Mod
 
 In this final lecture, we will focus on critical appraisal, a key step in assessing the methodological quality of systematic reviews. We’ll introduce AMSTAR 2 (A MeaSurement Tool to Assess systematic Reviews), a widely recognized checklist designed to evaluate the reliability and rigor of reviews, especially those including randomized and non-randomized studies. You’ll learn how to apply AMSTAR 2 to identify strengths, weaknesses, and potential biases. Finally, we’ll demonstrate how to use the AMSTAR2Vis package in R to visualize appraisal results, making them easier to interpret and share. This process ensures transparent, evidence-based conclusions for decision-making.
 
-Enjoy the final lecture here:
-
+Now Enjoy the Lecture!
 
 
 
@@ -201,6 +205,8 @@ Enjoy the final lecture here:
 <br><br>
 
 
+
+
 -
 ## AMSTAR2 Checklist Video Tutorial
 
@@ -210,7 +216,7 @@ video, you are encouraged to also select a systematic review and appraise it usi
 AMSTAR2 checklist.
 
 
-
+Now Enjoy the Tutorial!
 
 
 <video width="700" height="500" controls>
@@ -221,16 +227,18 @@ AMSTAR2 checklist.
 
 <br><br>
 
+**Lecture Practice Assignment**
+You are provided with this systematic review and meta - analysis article, use the AMSTAR2 checklist to critically appraise it. 
+
+Download article [**here**](http://publish.illinois.edu/tassitanolab-training/files/2025/08/Ding-Ding_2025_Daily-steps-and-health-outcomes-in-adults-a-systematic-review.pdf)
+
 -
 ## AMSTAR2Vis R package and ShinyApp Video Tutorial
 
 Finally, in this video you will get to know how to use the AMSTAR2Vis package in R to generate engaging visuals after undertaking a quality appraisal with the AMSTAR2 checklist.
 You will be adequately equipped to be able to reproduce the AMSTAR2 results of a systematic review.
 
-Now watch the video to learn.
-
-
-
+Now Enjoy the Tutorial!
 
 
 <video width="700" height="500" controls>
@@ -244,10 +252,13 @@ Now watch the video to learn.
 
 **Additional Sources:**
 
+Click [**here**](https://onlinelibrary-wiley-com.proxy2.library.illinois.edu/doi/10.1002/jrsm.1705) to download the article discussed in the video tutorial.
 
 
+<br>
 
-**Lecture Assignment:**
+**Lecture Practice Assignment:**
+Now for your practice assignment, open RStudio and practice reproducing the plots presented in the article using the provided code. This hands-on practice will help reinforce the concepts from the tutorial.
 
 <br><br>
 
@@ -264,6 +275,19 @@ In this module, you were introduced to the foundational concepts of systematic r
 
 In the next module, you will build on the foundational concepts of systematic reviews and meta-analysis by exploring how to search academic databases effectively. You’ll learn how to use Boolean operators and controlled vocabularies (e.g., MeSH terms) to construct precise search strategies in selected databases. The module will also introduce you to reference management tools and address common challenges in data extraction for meta-analysis and how to define a research question. 
 
+
+
+
+<br>
+
+-
+## Module 1 - Quiz 
+
+This quiz is designed to help you review and reinforce the key concepts covered in the first module. Take your time to read each question carefully, and apply the knowledge you’ve gained from the lectures and hands-on activities. Remember, the quiz is meant to support your learning, so it’s a great way to identify areas you may want to revisit before moving on.
+
+All the best, and enjoy testing your understanding!
+
+[**Begin your Module 1 Quiz Now**](link)
 
 <br>
 
