@@ -117,7 +117,9 @@ Now Enjoy the Lecture!
 
 
 **Additional Sources:**
-1. [Protocol registration issues of systematic review and meta-analysis studies: a survey of global researchers](http://publish.illinois.edu/tassitanolab-training/files/2025/08/Protocol-registration-issues-of-systematic-review-and-meta-analysis-studies-a-survey-of-global-researchers.pdf)
+
+
+[Protocol registration issues of systematic review and meta-analysis studies: a survey of global researchers](http://publish.illinois.edu/tassitanolab-training/files/2025/08/Protocol-registration-issues-of-systematic-review-and-meta-analysis-studies-a-survey-of-global-researchers.pdf)
 
 <br>
 
