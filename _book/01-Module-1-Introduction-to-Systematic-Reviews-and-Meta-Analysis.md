@@ -58,7 +58,7 @@ associated methodologies](http://publish.illinois.edu/tassitanolab-training/file
 
 **Lecture Assignment:**
 
-Click the link below to view the questions and instructions for Assignment 1 in Module 1. Make sure to read through everything carefully before you get started!
+Click the link below to view the questions and instructions for Assignment 1 of Module 1. Make sure to read through everything carefully before you get started!
 
 [***Begin Module 1 – Assignment 1***](http://publish.illinois.edu/tassitanolab-training/files/2025/08/Module-1-Lecture-1.1-assignmeny.pdf) 
 
@@ -91,7 +91,7 @@ Now Enjoy the Lecture!
 
 **Lecture Assignment:**
 
-Click the link below to view the questions and instructions for Assignment 2 in Module 1. Make sure to read through everything carefully before you get started!
+Click the link below to view the questions and instructions for Assignment 2 of Module 1. Make sure to read through everything carefully before you get started!
 
 [***Begin Module 1 – Assignment 2***](http://publish.illinois.edu/tassitanolab-training/files/2025/08/Module-1-Lecture-1.2-assignment.pdf)
 
@@ -100,7 +100,7 @@ Click the link below to view the questions and instructions for Assignment 2 in 
 -
 ## Lecture 1.3: Guide to registration of study protocol
 
-It’s great if you already have a research question in mind. In this course, you’re not required to complete a full systematic review, but you’ll have the opportunity to follow along and learn the complete process. You can choose to apply these steps to your own topic or simply explore the examples we provide. In this lecture, we’ll guide you through the PROSPERO registration process, step by step. Preparation is key—while some fields are optional, completing certain sections will strengthen your protocol. We’ll highlight these essential areas so you can register with clarity, accuracy, and confidence.
+It’s great if you already have a research question in mind. In this course, you’re not required to complete a full systematic review, but you’ll have the opportunity to follow along and learn the complete process. You can choose to apply these steps to your own topic or simply explore the examples we provide. When it comes to protocol registration, there are several platforms available, but in this lecture we’ll focus on PROSPERO, the most widely used registry for systematic reviews in health and social care. We’ll guide you step by step through the PROSPERO registration process. Preparation is key—while some fields are optional, completing certain sections will strengthen your protocol. We’ll highlight these essential areas so you can register with clarity, accuracy, and confidence.
 
 Now Enjoy the Lecture! 
 
@@ -117,7 +117,7 @@ Now Enjoy the Lecture!
 
 
 **Additional Sources:**
-
+1. [Protocol registration issues of systematic review and meta-analysis studies: a survey of global researchers](http://publish.illinois.edu/tassitanolab-training/files/2025/08/Protocol-registration-issues-of-systematic-review-and-meta-analysis-studies-a-survey-of-global-researchers.pdf)
 
 <br>
 
@@ -179,7 +179,7 @@ A sample protocol is found [**here**](https://www.crd.york.ac.uk/PROSPEROFILES/4
 
 **Lecture Assignment:**
 
-Click the link below to view the questions and instructions for Assignment 4 in Module 1. Make sure to read through everything carefully before you get started!
+Click the link below to view the questions and instructions for Assignment 4 of Module 1. Make sure to read through everything carefully before you get started!
 
 [***Begin Module 1 – Assignment 4***](http://publish.illinois.edu/tassitanolab-training/files/2025/08/Module-1-Lecture-1.4-assignment.pdf)
 
@@ -228,9 +228,15 @@ Now Enjoy the Tutorial!
 <br><br>
 
 **Lecture Practice Assignment**
-You are provided with this systematic review and meta - analysis article, use the AMSTAR2 checklist to critically appraise it. 
 
-Download article [**here**](http://publish.illinois.edu/tassitanolab-training/files/2025/08/Ding-Ding_2025_Daily-steps-and-health-outcomes-in-adults-a-systematic-review.pdf)
+
+
+Click the link below to view the questions and instructions for Assignment 5 of Module 1. Make sure to read through everything carefully before you get started!
+
+[***Begin Module 1 – Assignment 5***](http://publish.illinois.edu/tassitanolab-training/files/2025/08/Module-1-Lecture-1.5-assignment.pdf)
+
+
+Once you are done proceed to submit your assignment [here](https://surveys.illinois.edu/sec/1793618386)  
 
 -
 ## AMSTAR2Vis R package and ShinyApp Video Tutorial
@@ -258,6 +264,7 @@ Click [**here**](https://onlinelibrary-wiley-com.proxy2.library.illinois.edu/doi
 <br>
 
 **Lecture Practice Assignment:**
+
 Now for your practice assignment, open RStudio and practice reproducing the plots presented in the article using the provided code. This hands-on practice will help reinforce the concepts from the tutorial.
 
 <br><br>
@@ -287,7 +294,8 @@ This quiz is designed to help you review and reinforce the key concepts covered 
 
 All the best, and enjoy testing your understanding!
 
-[**Begin your Module 1 Quiz Now**](link)
+
+[**Begin your Module 1 Quiz Now**](https://tassitano-lab.shinyapps.io/Module1_Quiz/)
 
 <br>
 
