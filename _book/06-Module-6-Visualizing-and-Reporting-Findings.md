@@ -26,13 +26,50 @@ By the end of this module, students will be able to:
 •	Implement R Markdown to create dynamic, reproducible reports integrating text, code, and outputs.
 
 
-
-## Lesson 6.1: Creating Forest and Funnel Plots
+-
+## Lecture 6.1: Meta - Analysis Result Presentation
 
 o Using ggplot2 and metafor
 
-## Lesson 6.2: Writing the Systematic Review Report404 pages
+<br>
+
+-
+## Lecture 6.2: Communicating Meta-Analysis Results for Policy Impact
 
 o Structuring an R Markdown document
 
 o Formatting for publication (PDF, Word, HTML)
+
+
+-
+## Lecture 6.3: Reproducible Reporting with R Markdown
+
+
+<br><br>
+
+**Wrap-up**
+
+In this final module, you learned how to effectively present meta-analysis results to diverse audiences, including researchers, practitioners, and policymakers. You explored best practices for translating complex statistical findings into clear, actionable messages that can drive policy and practice decisions. Additionally, you gained hands-on experience creating dynamic and reproducible reports using R Markdown, integrating narrative, code, and visualizations to enhance transparency and ensure your work can be reliably replicated.
+
+
+
+<br>
+-
+## Module 6 - Quiz 
+
+This quiz is designed to help you review and reinforce the key concepts covered in the first module. Take your time to read each question carefully, and apply the knowledge you’ve gained from the lectures and hands-on activities. Remember, the quiz is meant to support your learning, so it’s a great way to identify areas you may want to revisit before moving on.
+
+All the best, and enjoy testing your understanding!
+
+[**Begin your Module 6 Quiz Now**](link)
+
+<br>
+
+
+**Kindly click this link below to provide feedback to improve this module**
+
+[**Click here to provide feedback**](link)
+
+
+
+Thank you for taking time to provide your feedback to improve the course. See you on the next module. 
