@@ -7,6 +7,7 @@ document.addEventListener("DOMContentLoaded", function() {
 });
 </script>
 
+
 # Module 5: Assessing Bias and Heterogeneity
 
 By the end of this module, students will be able to:
@@ -59,6 +60,8 @@ In this module, you explored advanced techniques in meta-analysis, with a focus 
 In the final module, you will learn how to effectively present the results of your meta-analysis to diverse audiences, including researchers, practitioners, and policymakers. The module will cover best practices for translating statistical findings into clear, actionable messages that can inform policy and practice. You will also explore how to create dynamic, reproducible reports using R Markdown, integrating text, code, and visualizations to ensure transparency and replicability in your work.
 
 <br>
+
+
 -
 ## Module 5 - Quiz 
 
