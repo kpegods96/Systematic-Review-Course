@@ -38,9 +38,9 @@ Now enjoy the lecture
 
 <br>
 
-**Lecture Assignment:**
+**Lecture Practice Assignment:**
 
-
+For this practice assignment, download attached document [here](link). Then, run the codes in your R studio to demonstrate how to handle missing data using a simulated dataset.
 
 <br><br>
 
@@ -71,8 +71,12 @@ Now enjoy the lecture
 <br>
 
 
-**Lecture Assignment:**
+**Lecture Practice Assignment:**
 
+For this practical assignment, kindly download the accompanying [r codes](link) and practice.
+
+
+<br><br>
 
 
 <br><br>
@@ -101,7 +105,7 @@ Now enjoy the lecture
 <br>
 
 
-**Lecture Assignment:**
+**Lecture Practice Assignment:**
 
 For your assignment, kindly download this [simulated dataset](link) and the accompanying [r codes](link) and run standard mean different of a post - test results of a study involving two groups.
 
@@ -132,7 +136,7 @@ Now enjoy the lecture
 <br>
 
 
-**Lecture Assignment:**
+**Lecture Practice Assignment:**
 
 Click the link below to view the questions and instructions for Assignment 4 in Module 3. Make sure to read through everything carefully before you get started!
 
