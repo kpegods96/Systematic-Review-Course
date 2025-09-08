@@ -297,7 +297,7 @@ This quiz is designed to help you review and reinforce the key concepts covered 
 All the best, and enjoy testing your understanding!
 
 
-[**Begin your Module 1 Quiz Now**](https://tassitano-lab.shinyapps.io/Module1_Quiz/)
+[**Begin your Module 1 Quiz Now**](https://tassitano-lab.shinyapps.io/SystematicReviewQuiz/)
 
 <br>
 

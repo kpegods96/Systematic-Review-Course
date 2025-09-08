@@ -71,6 +71,7 @@ Now Enjoy the Lecture!
 
 <br><br>
 
+
 **Wrap-up**
 
 In this module, you engaged in hands-on practice using R to apply key techniques in meta-analysis. Working with sample datasets, you learned how to compute pooled prevalence estimates, perform pre–post test comparisons, analyze single-group pre–post test data, and conduct binary outcome post-test meta-analyses. These practical exercises allowed you to apply statistical concepts to real-world scenarios. By completing this module, you are now better equipped to apply these methods to your own systematic review, ensuring greater rigor and reproducibility in your analysis.
@@ -91,14 +92,14 @@ This quiz is designed to help you review and reinforce the key concepts covered 
 
 All the best, and enjoy testing your understanding!
 
-[**Begin your Module 4 Quiz Now**](link)
+[**Begin your Module 4 Quiz Now**](https://tassitano-lab.shinyapps.io/SystematicReviewQuiz/)
 
 <br>
 
 
 **Kindly click this link below to provide feedback to improve this module**
 
-[**Click here to provide feedback**](link)
+[**Click here to provide feedback**](https://surveys.illinois.edu/sec/1019362512)
 
 
 
