@@ -28,7 +28,13 @@ Welcome! In this session, we’ll focus on how to summarize and present meta-ana
 Now Enjoy the Lecture!
 
 
+
 <br>
+
+**Additional Sources** 
+
+<br>
+
 
 -
 ## Lecture 6.2: Communicating Meta-Analysis Results for Policy Impact
@@ -38,6 +44,11 @@ Welcome! In this video, we’ll explore how to translate complex meta-analysis r
 Now Enjoy the Lecture!
 
 
+<br>
+
+**Additional Sources** 
+
+<br>
 
 
 -
@@ -47,6 +58,13 @@ Welcome! In this video, we’ll focus on how to create dynamic, reproducible rep
 
 Now Enjoy the Lecture!
 
+<br>
+
+**Additional Sources** 
+
+<br>
+
+**Lecture Practice Assignment**
 
 
 <br><br>

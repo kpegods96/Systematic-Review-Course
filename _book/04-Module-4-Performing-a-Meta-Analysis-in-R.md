@@ -29,8 +29,8 @@ Welcome! In this short lecture we’ll explain why cleaning and structuring data
 
 Now Enjoy the Lecture!
 
--
-## Practice Assignment 
+
+**Lecture Practice Assignment** 
 
 Make sure to install the folowing packages: dplyr, 
 
@@ -41,6 +41,15 @@ Welcome to this lecture on calculating pooled prevalence in meta-analysis. Poole
 
 Now enjoy the Lecture!
 
+<br>
+
+**Additional Sources** 
+
+<br>
+
+**Lecture Practice Assignment**
+
+<br>
 
 -
 ## Lecture 4.3 - Pre-Post_Comparison MetaAnalysis
@@ -48,6 +57,13 @@ Now enjoy the Lecture!
 Welcome to this lecture on analyzing continuous data in studies comparing two groups before and after an intervention. We’ll focus on understanding how interventions impact outcomes like blood pressure, weight, or knowledge scores. Using a simulated dataset, we’ll calculate the mean change in each group and combine results across studies using a random-effects meta-analysis. You’ll learn how to implement this in R with the metafor package, interpret effect sizes, assess statistical significance, and evaluate heterogeneity. Finally, you’ll have hands-on practice with the provided R code and dataset.
 
 Now Enjoy the Lecture!
+
+
+<br>
+
+**Lecture Practice Assignment**
+
+<br>
 
 
 -
@@ -59,6 +75,14 @@ Now Enjoy the Lecture!
 
 
 
+<br>
+
+**Lecture Practice Assignment**
+
+<br>
+
+
+
 -
 ## Lecture 4.5 - Binary Data for a Post-Test Only Design
 
@@ -66,7 +90,13 @@ Welcome to this lecture on analyzing binary data in a post-test-only design. In 
 
 Now Enjoy the Lecture!
 
+ 
 
+<br>
+
+**Lecture Practice Assignment**
+
+<br>
 
 
 <br><br>

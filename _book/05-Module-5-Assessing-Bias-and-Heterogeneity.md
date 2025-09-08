@@ -27,6 +27,15 @@ Welcome! In today’s session, we will explore publication bias, a critical issu
 Now Enjoy the Lecture!
 
 
+<br>
+
+**Additional Sources** 
+
+<br>
+
+**Lecture Practice Assignment**
+
+<br>
 
 
 -
@@ -37,6 +46,16 @@ Welcome! In this lecture, we’ll focus on the funnel plot, a fundamental tool i
 Now Enjoy the Lecture!
 
 
+<br>
+
+**Additional Sources** 
+
+<br>
+
+**Lecture Practice Assignment**
+
+<br>
+
 
 -
 ## Lecture 5.3: Egger's Test in R
@@ -44,6 +63,17 @@ Now Enjoy the Lecture!
 Welcome! In this session, we’ll examine Egger’s test, an important statistical method for detecting publication bias in meta-analyses. While funnel plots offer a visual way to identify potential bias, Egger’s test provides a more objective and quantitative approach. It assesses whether the funnel plot is symmetrical—an indicator that study results are being fairly represented. When asymmetry is present, it may suggest that smaller studies with null or negative findings are missing from the published literature. By learning how Egger’s test works and why it matters, you’ll gain a deeper understanding of how to strengthen the validity of meta-analysis.
 
 Now Enjoy the Lecture!
+
+
+<br>
+
+**Additional Sources** 
+
+<br>
+
+**Lecture Practice Assignment**
+
+<br>
 
 
 
@@ -54,6 +84,16 @@ Have you ever wondered how research trends are mapped across thousands of studie
 
 Now Enjoy the Lecture!
 
+<br>
+
+**Additional Sources** 
+
+<br>
+
+**Lecture Practice Assignment**
+
+<br>
+
 
 -
 ## Lecture 5.5: Moderation - Subgroup Analysis 
@@ -61,6 +101,16 @@ Now Enjoy the Lecture!
 Welcome! In this video, we’ll explore moderation and subgroup analysis in meta-analysis—two approaches that help explain variation in study results. Meta-analysis often reveals heterogeneity, meaning that effect sizes differ across studies. Moderation analysis investigates whether certain study characteristics, such as population type, setting, or methodology, account for these differences. Subgroup analysis, a specific form of moderation, focuses on categorical factors—for example, comparing treatment effects across genders or income levels. These methods are essential for understanding why outcomes may vary, refining interpretations, and guiding more tailored conclusions, provided they are applied carefully and supported by strong theoretical rationale.
 
 Now Enjoy the Lecture!
+
+
+
+<br>
+
+**Additional Sources** 
+
+<br>
+
+**Lecture Practice Assignment**
 
 
 
