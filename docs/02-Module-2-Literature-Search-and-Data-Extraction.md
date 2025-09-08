@@ -38,7 +38,7 @@ Welcome to Module 2 of our Systematic Review and Meta - Analysis course. By the 
 <br>
 
 -
-## Lesson 2.1: The role of literature searches in systematic reviews
+## Lecture 2.1: The role of literature searches in systematic reviews
 
 A systematic review is only as strong as the evidence it includes, and that evidence begins with a well-planned literature search. In this lecture, we will explore the pivotal role that literature searching plays in ensuring the completeness, accuracy, and credibility of a review. You will learn how a comprehensive search minimizes bias, captures relevant studies, and supports reproducibility. We will also discuss how search strategies connect directly to the review question, the choice of databases, and the transparency of reporting. By understanding this process, you’ll be better prepared to build a strong, reliable foundation for your systematic review.
 
@@ -55,12 +55,12 @@ Now Enjoy the Lecture!
 
 **Additional Sources:**
 
-
+[Defining the process to literature searching in systematic reviews: a literature review of guidance and supporting studies](http://publish.illinois.edu/tassitanolab-training/files/2025/09/Cooper_2018_Defining-the-process-to-litearture-searching-in-SR-a-literature-review-of-guidance-and-supporting-studies.pdf)
 
 <br><br>
 
 -
-## Lesson 2.2: Developing a search strategy with Boolean operators
+## Lecture 2.2: Developing a search strategy with Boolean operators
 
 An effective search strategy is the backbone of any systematic review, and mastering Boolean operators is key to finding the right evidence. In this lecture, we will explore how operators like AND, OR, and NOT can be used to combine keywords and subject headings for precise, comprehensive searches. Using a case study, you will learn how to structure search strings to balance sensitivity and specificity, ensuring you capture all relevant studies without being overwhelmed by irrelevant results. By the end, you’ll be able to search with confidence.
 
@@ -79,10 +79,13 @@ Remember to perform your search in more than one databases. Keep the outputs tha
 
 **Additional Sources:**
 
+[Constructing a Search Strategy and Searching for Evidence](http://publish.illinois.edu/tassitanolab-training/files/2025/09/Aromataris_2014_Constructing-a-search-strategy-and-searching-for-evidence.pdf)
+
 
 <br>
 
 **Lecture Assignment:**
+
 Click the link below to view the questions and instructions for Assignment 1 in Module 2. Make sure to read through everything carefully before you get started!
 
 [***Begin Module 2 – Assignment 1***](link)
@@ -90,7 +93,7 @@ Click the link below to view the questions and instructions for Assignment 1 in 
 <br><br>
 
 -
-##	Lesson 2.3: Justifying database selection for research  
+##	Lecture 2.3: Justifying database selection for research  
 
 Choosing the right databases is a critical step in conducting a systematic review. In this lecture, we will explore how to justify your selection of databases based on the scope of your research question, the discipline, and the type of evidence you seek. You will learn to evaluate databases for coverage, content quality, and relevance, and understand why relying on a single source may lead to incomplete or biased results. By the end of this session, you’ll be able to provide a clear rationale for your database choices, ensuring that your literature search is comprehensive, transparent, and aligned with best practices in evidence-based research.
 
@@ -134,10 +137,6 @@ Now Enjoy the Lecture!
 <br><br>
 
 
-**Additional Sources:**
-
-<br>
-
 
 **Lecture Practice Assignment:**
 
@@ -161,12 +160,9 @@ Now Enjoy the Lecture!
 <br><br>
 
 
-**Additional Sources:**
-
-
-<br>
 
 **Lecture Practice Assignment:**
+
 For this practice assignment, download and install Zotero if you haven’t already. Then, follow the video tutorial to import your articles from the previous practice assignment and organize them effectively. Take this opportunity to explore Zotero’s features, such as creating collections, tagging articles, and managing citations, to build a well-structured library for your systematic review.
 
 <br><br>
@@ -189,6 +185,7 @@ Now Enjoy the Lecture!
 
 **Additional Sources:**
 
+[Considerations for conducting systematic reviews: evaluating the performance of different methods for de-duplicating references](http://publish.illinois.edu/tassitanolab-training/files/2025/09/McKeown_2021_Considerations-for-conducting-systematic-reviews-evaluating-the-performance-of-different-methods-for-de-duplicating-references.pdf)
 
 <br>
 
@@ -216,13 +213,6 @@ Now Enjoy the Lecture!
 <br><br>
 
 
-**Additional Sources:**
-
-
-
-
-
-<br><br>
 
 -
 ## Lecture 2.7 – Critical Appraisal Assignment 
@@ -278,12 +268,7 @@ Now Enjoy the Lecture!
 
 <br>
 
-**Additional Sources:**
 
-
-
-
-<br><br>
 
 
 -
@@ -301,12 +286,6 @@ Now Enjoy the Lecture!
 
 <br><br>
 
-
-**Additional Sources:**
-
-
-
-<br><br>
 
 
 -
@@ -331,7 +310,7 @@ This quiz is designed to help you review and reinforce the key concepts covered 
 
 All the best, and enjoy testing your understanding!
 
-[**Begin your Module 2 Quiz Now**](link)
+[**Begin your Module 2 Quiz Now**](https://tassitano-lab.shinyapps.io/SystematicReviewQuiz/)
 
 <br>
 

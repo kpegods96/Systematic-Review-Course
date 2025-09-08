@@ -8,11 +8,13 @@ document.addEventListener("DOMContentLoaded", function() {
 </script>
 
 # Module 3: Data Preparation and Descriptive Analysis 
+
 <br>
 
 Welcome to this module on data extraction and descriptive analysis in systematic reviews. In this session, you will learn how to move from raw study information to structured, analyzable datasets. We’ll practice identifying essential study characteristics, outcome measures, and effect sizes, and then converting them into formats suitable for statistical analysis. You will also gain skills in handling missing data, detecting errors and inconsistencies, and reducing potential bias. Finally, we’ll explore descriptive statistics and visualizations—such as summary tables, histograms, and boxplots—to identify data patterns and sources of variability. These skills will prepare you for effect size calculation and further analyses.
 
 <br>
+
 
 -
 ## Lesson 3.1: Handling Missing Data 
@@ -31,6 +33,8 @@ Now enjoy the lecture
 
 **Additional Sources:**
 
+[Potential impact of missing outcome data on treatment effects in systematic reviews: imputation study](http://publish.illinois.edu/tassitanolab-training/files/2025/09/Kahale_2020_Potential-impact-of-missing-outcome-data-on-treatment-effects-in-systematic-reviews.pdf)
+
 
 <br>
 
@@ -39,6 +43,7 @@ Now enjoy the lecture
 
 
 <br><br>
+
 
 -
 ## Lesson 3.2: Exploring Heterogeneity in Systematic Review Data
@@ -60,8 +65,11 @@ Now enjoy the lecture
 
 **Additional Sources:**
 
+[Heterogeneity in meta-analyses: an unavoidable challenge worth exploring]( http://publish.illinois.edu/tassitanolab-training/files/2025/09/Choi_2025_Heterogeneity-in-meta-analyses-an-unavoidable-challenge-worth-exploring.pdf)
+
 
 <br>
+
 
 **Lecture Assignment:**
 
@@ -83,10 +91,15 @@ Now enjoy the lecture
 
 <br><br>
 
+
 **Additional Sources:**
 
 
+[Practical Meta Analysis Effect Size Calculator](https://www.campbellcollaboration.org/calculator/#)
+
+
 <br>
+
 
 **Lecture Assignment:**
 
@@ -110,16 +123,23 @@ Now enjoy the lecture
 
 <br><br>
 
+
 **Additional Sources:**
 
 
+[Fixed-Effect vs Random-Effects Models for Meta-Analysis: 3 Points to Consider]( http://publish.illinois.edu/tassitanolab-training/files/2025/09/Dettori_2022_Fixed-Effect-vs-Random-Effects-Models-for-meta-analysis.pdf)
+
 <br>
+
 
 **Lecture Assignment:**
 
+Click the link below to view the questions and instructions for Assignment 4 in Module 3. Make sure to read through everything carefully before you get started!
 
+[***Begin Module 3 – Assignment 4***](http://publish.illinois.edu/tassitanolab-training/files/2025/09/Module-3-–-Lecture-3.4-assignment.pdf)
 
 <br><br>
+
 
 **Wrap-up**
 
@@ -127,11 +147,14 @@ In this module, you gained hands-on experience in extracting meta-data from sele
 
 <br>
 
+
 **Looking ahead**
 
 In the next module, you will engage in more hands-on practice using R to strengthen your practical skills in meta-analysis. With the aid of sample datasets, you will learn how to compute pooled prevalence estimates, perform pre–post test comparisons, analyze single-group pre–post test data, and conduct binary outcome post-test meta-analyses. These exercises are designed to help you apply key statistical techniques to real-world scenarios. By the end of the module, you will be equipped to confidently apply these methods to your own systematic review, enhancing both the rigor and reproducibility of your analysis.
 
 <br>
+
+
 -
 ## Module 3 - Quiz 
 
@@ -139,14 +162,14 @@ This quiz is designed to help you review and reinforce the key concepts covered 
 
 All the best, and enjoy testing your understanding!
 
-[**Begin your Module 3 Quiz Now**](link)
+[**Begin your Module 3 Quiz Now**](https://tassitano-lab.shinyapps.io/SystematicReviewQuiz/)
 
 <br>
 
 
 **Kindly click this link below to provide feedback to improve this module**
 
-[**Click here to provide feedback**](link)
+[**Click here to provide feedback**](https://surveys.illinois.edu/sec/1705982931)
 
 
 
