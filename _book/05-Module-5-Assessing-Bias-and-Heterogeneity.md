@@ -33,10 +33,6 @@ Now Enjoy the Lecture!
 
 <br>
 
-**Lecture Practice Assignment**
-
-<br>
-
 
 -
 ## Lecture 5.2: Funnel Plot in R
@@ -53,6 +49,8 @@ Now Enjoy the Lecture!
 <br>
 
 **Lecture Practice Assignment**
+
+In this practice assignment, start by clicking on this [**link**](https://kpegods96.github.io/demo/). Once there, head over to **Lecture 5.2 Demonstration**, copy the code, and try running it in RStudio as you follow along step by step.
 
 <br>
 
@@ -73,6 +71,9 @@ Now Enjoy the Lecture!
 
 **Lecture Practice Assignment**
 
+In this practice assignment, start by clicking on this [**link**](https://kpegods96.github.io/demo/). Once there, head over to **Lecture 5.3 Demonstration**, copy the code, and try running it in RStudio as you follow along step by step.
+
+
 <br>
 
 
@@ -91,6 +92,8 @@ Now Enjoy the Lecture!
 <br>
 
 **Lecture Practice Assignment**
+
+
 
 <br>
 
@@ -112,6 +115,7 @@ Now Enjoy the Lecture!
 
 **Lecture Practice Assignment**
 
+In this practice assignment, start by clicking on this [**link**](https://kpegods96.github.io/demo/). Once there, head over to **Lecture 5.5 Demonstration**, copy the code, and try running it in RStudio as you follow along step by step.
 
 
 <br><br>

@@ -40,7 +40,7 @@ Now enjoy the lecture
 
 **Lecture Practice Assignment:**
 
-For this practice assignment, download attached document [here](link). Then, run the codes in your R studio to demonstrate how to handle missing data using a simulated dataset.
+In this practice assignment, start by clicking on this [**link**](https://kpegods96.github.io/demo/). Once there, head over to **Lecture 3.1 Demonstration**, copy the code, and try running it in RStudio as you follow along step by step.
 
 <br><br>
 
@@ -73,7 +73,7 @@ Now enjoy the lecture
 
 **Lecture Practice Assignment:**
 
-For this practical assignment, kindly download the accompanying [r codes](link) and practice.
+In this practice assignment, start by clicking on this [**link**](https://kpegods96.github.io/demo/). Once there, head over to **Lecture 3.2 Demonstration**, copy the code, and try running it in RStudio as you follow along step by step..
 
 
 <br><br>
@@ -107,7 +107,7 @@ Now enjoy the lecture
 
 **Lecture Practice Assignment:**
 
-For your assignment, kindly download this [simulated dataset](link) and the accompanying [r codes](link) and run standard mean different of a post - test results of a study involving two groups.
+In this practice assignment, start by clicking on this [**link**](https://kpegods96.github.io/demo/). Once there, head over to **Lecture 3.3 Demonstration**, copy the code, and try running it in RStudio as you follow along step by step.
 
 <br><br>
 

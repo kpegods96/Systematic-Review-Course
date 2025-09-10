@@ -88,7 +88,7 @@ Remember to perform your search in more than one databases. Keep the outputs tha
 
 Click the link below to view the questions and instructions for Assignment 1 in Module 2. Make sure to read through everything carefully before you get started!
 
-[***Begin Module 2 – Assignment 1***](link)
+[***Begin Module 2 – Assignment 1***](http://publish.illinois.edu/tassitanolab-training/files/2025/09/Module-2-Lecture-2.2-assignment.pdf)
 
 <br><br>
 
