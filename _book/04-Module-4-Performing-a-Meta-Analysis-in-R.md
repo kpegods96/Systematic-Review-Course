@@ -23,29 +23,40 @@ By the end of this module, students will be able to:
 
 
 -
-## Lecture 4.1: Cleaning, and Structuring Data for Meta-Analysis in R
+## Lecture 4.1 - Cleaning, and Structuring Data for Meta-Analysis in R
 
 Welcome! In this short lecture we’ll explain why cleaning and structuring data are essential for meta-analysis and demonstrate practical R workflows. You’ll learn to import an Excel file with readxl, remove incomplete or inconsistent rows, and handle missing values using dplyr. We’ll also convert variables—such as Intervention_Type—into appropriate types and factors so models run correctly. Proper cleaning prevents biased or misleading results by ensuring consistent formats and accurate inputs. After the lecture, download the R script and sample dataset from the course eBook to practice in RStudio.
 
 Now Enjoy the Lecture!
 
-<br>
+
+<video width="700" height="500" controls>
+  <source src="http://publish.illinois.edu/tassitanolab-training/files/2025/09/Lecture-4.1.mp4">
+  Your browser does not support the video tag.
+</video>
+
+<br><br>
 
 **Lecture Practice Assignment** 
 
 
-In this practice assignment, start by clicking on this [**link**](https://kpegods96.github.io/demo/). Once there, head over to **Lecture 4.1 Demonstration**, copy the code, and try running it in RStudio as you follow along step by step. 
+In this practice assignment, start by clicking on this [**link**](https://kpegods96.github.io/demo/). Once there, head over to **Lecture 4.1 Demonstration: Cleaning, and Structuring Data for Meta-Analysis in R**, copy the code, and try running it in RStudio as you follow along step by step. 
 
 <br>
 
 -
-## Lecture 4.2: Pooled Prevalence Estimation
+## Lecture 4.2 - Pooled Prevalence Estimation
 
 Welcome to this lecture on calculating pooled prevalence in meta-analysis. Pooled prevalence is a powerful method for summarizing results across multiple studies, providing a single, overall estimate of how common a condition is across different populations or settings. In this session, we’ll cover key concepts such as prevalence, study weighting, and heterogeneity, measured by I², which tells us how consistent study results are. You’ll learn how to extract data, stabilize proportions, and implement a random-effects model in R using the meta package. By the end, you’ll understand how to interpret pooled estimates and apply your knowledge in previous lecture to assess their reliability.
 
 Now enjoy the Lecture!
 
-<br>
+<video width="700" height="500" controls>
+  <source src="http://publish.illinois.edu/tassitanolab-training/files/2025/09/Lecture-4.2.mp4">
+  Your browser does not support the video tag.
+</video>
+
+<br><br>
 
 **Additional Sources** 
 
@@ -53,23 +64,27 @@ Now enjoy the Lecture!
 
 **Lecture Practice Assignment**
 
-In this practice assignment, start by clicking on this [**link**](https://kpegods96.github.io/demo/). Once there, head over to **Lecture 4.2 Demonstration**, copy the code, and try running it in RStudio as you follow along step by step.
+In this practice assignment, start by clicking on this [**link**](https://kpegods96.github.io/demo/). Once there, head over to **Lecture 4.2 Demonstration: Pooled Prevalence Estimation**, copy the code, and try running it in RStudio as you follow along step by step.
 
 <br>
 
 -
-## Lecture 4.3 - Pre-Post_Comparison MetaAnalysis
+## Lecture 4.3 - Pre-Post Comparison Meta - Analysis
 
 Welcome to this lecture on analyzing continuous data in studies comparing two groups before and after an intervention. We’ll focus on understanding how interventions impact outcomes like blood pressure, weight, or knowledge scores. Using a simulated dataset, we’ll calculate the mean change in each group and combine results across studies using a random-effects meta-analysis. You’ll learn how to implement this in R with the metafor package, interpret effect sizes, assess statistical significance, and evaluate heterogeneity. Finally, you’ll have hands-on practice with the provided R code and dataset.
 
 Now Enjoy the Lecture!
 
+<video width="700" height="500" controls>
+  <source src="http://publish.illinois.edu/tassitanolab-training/files/2025/09/Lecture-4.3.mp4">
+  Your browser does not support the video tag.
+</video>
 
-<br>
+<br><br>
 
 **Lecture Practice Assignment**
 
-In this practice assignment, start by clicking on this [**link**](https://kpegods96.github.io/demo/). Once there, head over to **Lecture 4.3 Demonstration**, copy the code, and try running it in RStudio as you follow along step by step.
+In this practice assignment, start by clicking on this [**link**](https://kpegods96.github.io/demo/). Once there, head over to **Lecture 4.3 Demonstration: Pre-Post Comparison Meta - Analysis**, copy the code, and try running it in RStudio as you follow along step by step.
 
 <br>
 
@@ -82,12 +97,16 @@ Welcome to this lecture on analyzing continuous data from a single group before 
 Now Enjoy the Lecture!
 
 
+<video width="700" height="500" controls>
+  <source src="http://publish.illinois.edu/tassitanolab-training/files/2025/09/Lecture-4.4.mp4">
+  Your browser does not support the video tag.
+</video>
 
-<br>
+<br><br>
 
 **Lecture Practice Assignment**
 
-In this practice assignment, start by clicking on this [**link**](https://kpegods96.github.io/demo/). Once there, head over to **Lecture 4.4 Demonstration**, copy the code, and try running it in RStudio as you follow along step by step.
+In this practice assignment, start by clicking on this [**link**](https://kpegods96.github.io/demo/). Once there, head over to **Lecture 4.4 Demonstration: Single Group Pre - Post data**, copy the code, and try running it in RStudio as you follow along step by step.
 
 <br>
 
@@ -100,13 +119,18 @@ Welcome to this lecture on analyzing binary data in a post-test-only design. In 
 
 Now Enjoy the Lecture!
 
- 
+<video width="700" height="500" controls>
+  <source src="http://publish.illinois.edu/tassitanolab-training/files/2025/09/Lecture-4.5.mp4">
+  Your browser does not support the video tag.
+</video>
+
+<br><br> 
 
 <br>
 
 **Lecture Practice Assignment**
 
-In this practice assignment, start by clicking on this [**link**](https://kpegods96.github.io/demo/). Once there, head over to **Lecture 4.5 Demonstration**, copy the code, and try running it in RStudio as you follow along step by step.
+In this practice assignment, start by clicking on this [**link**](https://kpegods96.github.io/demo/). Once there, head over to **Lecture 4.5 Demonstration: Binary Data for a Post-Test Only Design**, copy the code, and try running it in RStudio as you follow along step by step.
 
 
 

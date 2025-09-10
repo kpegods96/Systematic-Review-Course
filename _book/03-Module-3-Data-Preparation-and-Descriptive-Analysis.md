@@ -17,7 +17,7 @@ Welcome to this module on data extraction and descriptive analysis in systematic
 
 
 -
-## Lesson 3.1: Handling Missing Data 
+## Lesson 3.1 - Handling Missing Data 
 
 Hello and welcome! In this lecture, we’ll explore how to handle missing or incomplete data in systematic reviews—a common challenge that, if left unaddressed, can introduce bias and weaken conclusions. Our goal is to equip you with practical strategies to manage missing data effectively. You’ll learn about the risks of incomplete data, as well as techniques like mean imputation, last observation carried forward, and multiple imputation—essential tools for every evidence reviewer. We’ll also emphasize the importance of first contacting study authors to obtain missing information before applying these methods. Let’s dive in and build confidence in handling missing data.
 
@@ -40,13 +40,13 @@ Now enjoy the lecture
 
 **Lecture Practice Assignment:**
 
-In this practice assignment, start by clicking on this [**link**](https://kpegods96.github.io/demo/). Once there, head over to **Lecture 3.1 Demonstration**, copy the code, and try running it in RStudio as you follow along step by step.
+In this practice assignment, start by clicking on this [**link**](https://kpegods96.github.io/demo/). Once there, head over to **Lecture 3.1 Demonstration: Handling Missing Data**, copy the code, and try running it in RStudio as you follow along step by step.
 
 <br><br>
 
 
 -
-## Lesson 3.2: Exploring Heterogeneity in Systematic Review Data
+## Lesson 3.2 - Exploring Heterogeneity in Systematic Review Data
 
 Welcome to today’s lecture on interpreting heterogeneity in meta-analysis. When we combine results from multiple studies, we rarely find identical outcomes. Instead, differences often emerge due to variations in study design, populations, or interventions. This variability, known as heterogeneity, is a critical concept to understand because it influences how much confidence we can place in pooled results. In this session, we’ll explore statistical tools such as Cochran’s Q, its p-value, and the I² statistic, as well as visual tools like the forest plot. These methods together provide a clearer picture of study consistency and overall evidence strength.
 
@@ -73,7 +73,7 @@ Now enjoy the lecture
 
 **Lecture Practice Assignment:**
 
-In this practice assignment, start by clicking on this [**link**](https://kpegods96.github.io/demo/). Once there, head over to **Lecture 3.2 Demonstration**, copy the code, and try running it in RStudio as you follow along step by step..
+In this practice assignment, start by clicking on this [**link**](https://kpegods96.github.io/demo/). Once there, head over to **Lecture 3.2 Demonstration: Exploring Heterogeneity in Systematic Review Data**, copy the code, and try running it in RStudio as you follow along step by step..
 
 
 <br><br>
@@ -107,7 +107,7 @@ Now enjoy the lecture
 
 **Lecture Practice Assignment:**
 
-In this practice assignment, start by clicking on this [**link**](https://kpegods96.github.io/demo/). Once there, head over to **Lecture 3.3 Demonstration**, copy the code, and try running it in RStudio as you follow along step by step.
+In this practice assignment, start by clicking on this [**link**](https://kpegods96.github.io/demo/). Once there, head over to **Lecture 3.3 Demonstration: Effect size in Meta - Analysis **, copy the code, and try running it in RStudio as you follow along step by step.
 
 <br><br>
 
