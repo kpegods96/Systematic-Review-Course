@@ -17,7 +17,7 @@ By the end of this module, students will be able to:
 
 •	Conduct meta-analysis using both random and fixed effect models and interpret their results.
 
-•	Quantify and interpret heterogeneity using statistical measures such as Cochran’s Q, I², and Tau².
+•	Quantify and interpret heterogeneity using statistical measures such as Cochran’s Q and I²
 
 
 
@@ -29,10 +29,14 @@ Welcome! In this short lecture we’ll explain why cleaning and structuring data
 
 Now Enjoy the Lecture!
 
+<br>
 
 **Lecture Practice Assignment** 
 
-Make sure to install the folowing packages: dplyr, 
+
+In this practice assignment, start by clicking on this [**link**](https://kpegods96.github.io/demo/). Once there, head over to **Lecture 4.1 Demonstration**, copy the code, and try running it in RStudio as you follow along step by step. 
+
+<br>
 
 -
 ## Lecture 4.2: Pooled Prevalence Estimation
@@ -49,6 +53,8 @@ Now enjoy the Lecture!
 
 **Lecture Practice Assignment**
 
+In this practice assignment, start by clicking on this [**link**](https://kpegods96.github.io/demo/). Once there, head over to **Lecture 4.2 Demonstration**, copy the code, and try running it in RStudio as you follow along step by step.
+
 <br>
 
 -
@@ -62,6 +68,8 @@ Now Enjoy the Lecture!
 <br>
 
 **Lecture Practice Assignment**
+
+In this practice assignment, start by clicking on this [**link**](https://kpegods96.github.io/demo/). Once there, head over to **Lecture 4.3 Demonstration**, copy the code, and try running it in RStudio as you follow along step by step.
 
 <br>
 
@@ -78,6 +86,8 @@ Now Enjoy the Lecture!
 <br>
 
 **Lecture Practice Assignment**
+
+In this practice assignment, start by clicking on this [**link**](https://kpegods96.github.io/demo/). Once there, head over to **Lecture 4.4 Demonstration**, copy the code, and try running it in RStudio as you follow along step by step.
 
 <br>
 
@@ -96,7 +106,8 @@ Now Enjoy the Lecture!
 
 **Lecture Practice Assignment**
 
-<br>
+In this practice assignment, start by clicking on this [**link**](https://kpegods96.github.io/demo/). Once there, head over to **Lecture 4.5 Demonstration**, copy the code, and try running it in RStudio as you follow along step by step.
+
 
 
 <br><br>
