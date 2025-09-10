@@ -20,7 +20,7 @@ By the end of this module, students will be able to:
 
 
 -
-## Lecture 5.1: Publication Bias 
+## Lecture 5.1 - Publication Bias 
 
 Welcome! In today’s session, we will explore publication bias, a critical issue that can undermine the validity of systematic reviews and meta-analyses. Publication bias arises when studies reporting significant or positive findings are more likely to be published, while those with non-significant or negative results remain hidden. This selective visibility distorts the evidence base, leading to exaggerated estimates of effectiveness and potentially misleading conclusions. By understanding how publication bias occurs, recognizing its impact, and learning the methods used to detect and adjust for it, we can ensure that meta-analyses provide a more accurate and balanced reflection of reality.
 
@@ -35,7 +35,7 @@ Now Enjoy the Lecture!
 
 
 -
-## Lecture 5.2: Funnel Plot in R
+## Lecture 5.2 - Funnel Plot in R
 
 Welcome! In this lecture, we’ll focus on the funnel plot, a fundamental tool in meta-analysis for detecting publication bias and assessing the reliability of evidence. Funnel plots provide a simple yet powerful way to visualize whether all relevant studies—both large and small—are represented fairly in the data. When the plot is symmetrical, it suggests minimal bias, but asymmetry may indicate missing studies or selective reporting. Understanding how to construct and interpret funnel plots is essential for maintaining transparency and ensuring valid conclusions in systematic reviews. By the end, you’ll know why and how funnel plots strengthen evidence synthesis.
 
@@ -50,13 +50,13 @@ Now Enjoy the Lecture!
 
 **Lecture Practice Assignment**
 
-In this practice assignment, start by clicking on this [**link**](https://kpegods96.github.io/demo/). Once there, head over to **Lecture 5.2 Demonstration**, copy the code, and try running it in RStudio as you follow along step by step.
+In this practice assignment, start by clicking on this [**link**](https://kpegods96.github.io/demo/). Once there, head over to **Lecture 5.2 Demonstration: Funnel Plot in R**, copy the code, and try running it in RStudio as you follow along step by step.
 
 <br>
 
 
 -
-## Lecture 5.3: Egger's Test in R
+## Lecture 5.3 - Egger's Test in R
 
 Welcome! In this session, we’ll examine Egger’s test, an important statistical method for detecting publication bias in meta-analyses. While funnel plots offer a visual way to identify potential bias, Egger’s test provides a more objective and quantitative approach. It assesses whether the funnel plot is symmetrical—an indicator that study results are being fairly represented. When asymmetry is present, it may suggest that smaller studies with null or negative findings are missing from the published literature. By learning how Egger’s test works and why it matters, you’ll gain a deeper understanding of how to strengthen the validity of meta-analysis.
 
@@ -71,7 +71,7 @@ Now Enjoy the Lecture!
 
 **Lecture Practice Assignment**
 
-In this practice assignment, start by clicking on this [**link**](https://kpegods96.github.io/demo/). Once there, head over to **Lecture 5.3 Demonstration**, copy the code, and try running it in RStudio as you follow along step by step.
+In this practice assignment, start by clicking on this [**link**](https://kpegods96.github.io/demo/). Once there, head over to **Lecture 5.3 Demonstration: Egger's Test in R**, copy the code, and try running it in RStudio as you follow along step by step.
 
 
 <br>
@@ -79,7 +79,7 @@ In this practice assignment, start by clicking on this [**link**](https://kpegod
 
 
 -
-## Lecture 5.4: Bibliometric Analysis Using Biblioshiny
+## Lecture 5.4 - Bibliometric Analysis Using Biblioshiny
 
 Have you ever wondered how research trends are mapped across thousands of studies? Welcome! In this video, we’ll explore Bibliometric Analysis, a quantitative method used to study patterns within academic literature. Bibliometrics helps researchers examine citation counts, influential authors, keyword trends, and collaboration networks, offering powerful insights into how knowledge develops and spreads across disciplines. Coined by Alan Pritchard in 1969, bibliometrics has become central to research evaluation and science mapping. By revealing who publishes, what topics dominate, and how ideas connect, bibliometric analysis strengthens systematic reviews and guides future research, collaboration, and academic strategy.
 
@@ -115,7 +115,7 @@ Now Enjoy the Lecture!
 
 **Lecture Practice Assignment**
 
-In this practice assignment, start by clicking on this [**link**](https://kpegods96.github.io/demo/). Once there, head over to **Lecture 5.5 Demonstration**, copy the code, and try running it in RStudio as you follow along step by step.
+In this practice assignment, start by clicking on this [**link**](https://kpegods96.github.io/demo/). Once there, head over to **Lecture 5.5 Demonstration: Moderation - Subgroup Analysis**, copy the code, and try running it in RStudio as you follow along step by step.
 
 
 <br><br>
