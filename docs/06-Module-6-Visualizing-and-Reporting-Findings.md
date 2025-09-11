@@ -64,10 +64,7 @@ Now Enjoy the Lecture!
 
 <br>
 
-**Lecture Practice Assignment**
 
-
-<br><br>
 
 **Wrap-up**
 

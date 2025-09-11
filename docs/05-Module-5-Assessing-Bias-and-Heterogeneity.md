@@ -27,7 +27,12 @@ Welcome! In today’s session, we will explore publication bias, a critical issu
 Now Enjoy the Lecture!
 
 
-<br>
+<video width="700" height="500" controls>
+  <source src="http://publish.illinois.edu/tassitanolab-training/files/2025/09/Lecture-5.1.mp4">
+  Your browser does not support the video tag.
+</video>
+
+<br><br>
 
 **Additional Sources** 
 
@@ -42,7 +47,12 @@ Welcome! In this lecture, we’ll focus on the funnel plot, a fundamental tool i
 Now Enjoy the Lecture!
 
 
-<br>
+<video width="700" height="500" controls>
+  <source src="http://publish.illinois.edu/tassitanolab-training/files/2025/09/Lecture-5.2.mp4">
+  Your browser does not support the video tag.
+</video>
+
+<br><br>
 
 **Additional Sources** 
 
@@ -63,7 +73,12 @@ Welcome! In this session, we’ll examine Egger’s test, an important statistic
 Now Enjoy the Lecture!
 
 
-<br>
+<video width="700" height="500" controls>
+  <source src="http://publish.illinois.edu/tassitanolab-training/files/2025/09/Lecture-5.3.mp4">
+  Your browser does not support the video tag.
+</video>
+
+<br><br>
 
 **Additional Sources** 
 
@@ -85,17 +100,17 @@ Have you ever wondered how research trends are mapped across thousands of studie
 
 Now Enjoy the Lecture!
 
-<br>
+<video width="700" height="500" controls>
+  <source src="http://publish.illinois.edu/tassitanolab-training/files/2025/09/Lecture-5.4.mp4">
+  Your browser does not support the video tag.
+</video>
+
+<br><br>
 
 **Additional Sources** 
 
 <br>
 
-**Lecture Practice Assignment**
-
-
-
-<br>
 
 
 -
@@ -105,9 +120,13 @@ Welcome! In this video, we’ll explore moderation and subgroup analysis in meta
 
 Now Enjoy the Lecture!
 
+<video width="700" height="500" controls>
+  <source src="http://publish.illinois.edu/tassitanolab-training/files/2025/09/Lecture-5.5.mp4">
+  Your browser does not support the video tag.
+</video>
 
+<br><br>
 
-<br>
 
 **Additional Sources** 
 
