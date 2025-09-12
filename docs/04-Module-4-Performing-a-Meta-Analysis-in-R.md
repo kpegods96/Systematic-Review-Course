@@ -60,6 +60,8 @@ Now enjoy the Lecture!
 
 **Additional Sources** 
 
+[Meta-analysis of prevalence: I2 statistic and how to deal with heterogeneity](https://onlinelibrary.wiley.com/doi/10.1002/jrsm.1547)
+
 <br>
 
 **Lecture Practice Assignment**

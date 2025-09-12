@@ -16,7 +16,6 @@ By the end of this module, students will be able to:
 
 •	Investigate sources of heterogeneity by conducting subgroup.
 
-•	Apply meta-regression techniques to explore potential moderators of heterogeneity.
 
 
 -
@@ -35,6 +34,8 @@ Now Enjoy the Lecture!
 <br><br>
 
 **Additional Sources** 
+
+[Meta-analysis for psychologists](http://publish.illinois.edu/tassitanolab-training/files/2025/09/Cooke_Meta-analysis-for-psychologists.pdf)
 
 <br>
 
@@ -55,6 +56,8 @@ Now Enjoy the Lecture!
 <br><br>
 
 **Additional Sources** 
+
+[Funnel plots for detecting bias in meta-analysis: Guidelines on choice of axis](http://publish.illinois.edu/tassitanolab-training/files/2025/09/Sterne_2001_Funnel-plots-for-detecting-bias-in-meta-analysis.pdf)
 
 <br>
 
@@ -82,6 +85,7 @@ Now Enjoy the Lecture!
 
 **Additional Sources** 
 
+[Chapter 9: How to Conduct a Meta-Analysis of Correlations](http://publish.illinois.edu/tassitanolab-training/files/2025/09/Cooke_Meta-analysis-for-psychologists.pdf)
 <br>
 
 **Lecture Practice Assignment**
@@ -109,6 +113,8 @@ Now Enjoy the Lecture!
 
 **Additional Sources** 
 
+[A Technical Note on Bibliometric Analysis by Biblioshiny and VOSviewer](http://publish.illinois.edu/tassitanolab-training/files/2025/09/Mondal_2025_A-technical-note-on-bibliometric-analysis-by-biblioshiny.pdf)
+
 <br>
 
 
@@ -129,6 +135,9 @@ Now Enjoy the Lecture!
 
 
 **Additional Sources** 
+
+
+[Chapter 12: Moderator (Subgroup) Analyses](https://publish.illinois.edu/tassitanolab-training/files/2025/09/Cooke_Meta-analysis-for-psychologists.pdf)
 
 <br>
 
