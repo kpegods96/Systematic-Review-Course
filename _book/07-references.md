@@ -1,3 +1,4 @@
+```{=html}
 <script>
 document.addEventListener("DOMContentLoaded", function() {
   var password = prompt("Enter password to view the course:");
@@ -6,7 +7,6 @@ document.addEventListener("DOMContentLoaded", function() {
   }
 });
 </script>
+```
 
-
-# References {-}
-
+ # References {-} 
