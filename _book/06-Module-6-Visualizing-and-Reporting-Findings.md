@@ -28,12 +28,13 @@ Welcome! In this session, we’ll focus on how to summarize and present meta-ana
 Now Enjoy the Lecture!
 
 
+<video width="700" height="500" controls>
+  <source src="http://publish.illinois.edu/tassitanolab-training/files/2025/09/Lecture-6.1.mp4">
+  Your browser does not support the video tag.
+</video>
 
-<br>
+<br><br>
 
-**Additional Sources** 
-
-<br>
 
 
 -
@@ -43,10 +44,16 @@ Welcome! In this video, we’ll explore how to translate complex meta-analysis r
 
 Now Enjoy the Lecture!
 
+<video width="700" height="500" controls>
+  <source src="http://publish.illinois.edu/tassitanolab-training/files/2025/09/Lecture-6.2.mp4">
+  Your browser does not support the video tag.
+</video>
 
-<br>
+<br><br>
 
 **Additional Sources** 
+
+[Improving the Usefulness and Use of Meta-Analysis to Inform Policy and Practice](http://publish.illinois.edu/tassitanolab-training/files/2025/09/Maynard_2024_Improving-the-usefulness-and-use-of-meta-analysis-to-inform-policy-and-practice.pdf)
 
 <br>
 
@@ -54,14 +61,25 @@ Now Enjoy the Lecture!
 -
 ## Lecture 6.3: Reproducible Reporting with R Markdown
 
-Welcome! In this video, we’ll focus on how to create dynamic, reproducible reports using R Markdown, an essential skill for systematic review analysis in public health and research. R Markdown allows you to seamlessly integrate text, code, and outputs into a single document, ensuring your work is both transparent and easy to share. By combining narrative with automatically updated plots, tables, and results, you can produce professional reports that are reproducible across different contexts. In this session, you’ll learn the structure of an R Markdown report, best practices for embedding analysis, and how to render polished outputs for submission.
+Welcome! In this video, we’ll focus on how to create dynamic, reproducible reports using R Markdown. R Markdown allows you to seamlessly integrate text, code, and outputs into a single document, ensuring your work is both transparent and easy to share. By combining narrative with automatically updated plots, tables, and results, you can produce professional reports that are reproducible across different contexts. In this session, you’ll learn the structure of an R Markdown report, best practices for embedding analysis, and how to render polished outputs for submission.
 
 Now Enjoy the Lecture!
 
-<br>
+<video width="700" height="500" controls>
+  <source src="http://publish.illinois.edu/tassitanolab-training/files/2025/09/Lecture-6.3.mp4">
+  Your browser does not support the video tag.
+</video>
+
+<br><br>
 
 **Additional Sources** 
 
+
+
+Kindly use the link [**here**](https://rmarkdown.rstudio.com/) for all the necessary help you need in building an R markdown to report your finding for easy reproducibility. 
+
+
+[R Markdown: The Definitive Guide](https://bookdown.org/yihui/rmarkdown/)
 <br>
 
 
