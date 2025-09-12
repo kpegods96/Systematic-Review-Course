@@ -9,7 +9,10 @@ document.addEventListener("DOMContentLoaded", function() {
 
 # Module 4: Performing a Meta-Analysis in R 
 
-By the end of this module, students will be able to:
+In this module, we will build the foundation for conducting a high-quality meta-analysis in R. You will first learn how to import, clean, and structure data to ensure accuracy and consistency across studies. Next, we will cover how to calculate common effect size measures—including mean differences, odds ratios, and risk ratios—from both raw data and published summaries. With these measures, you’ll conduct meta-analyses using fixed- and random-effects models, comparing their assumptions and interpretations. Finally, we will focus on quantifying and interpreting heterogeneity with I², essential for understanding variability across included studies.
+
+
+***By the end of this module, students will be able to:***
 
 •	Import, clean, and structure data for meta-analysis in R.
 
@@ -17,7 +20,7 @@ By the end of this module, students will be able to:
 
 •	Conduct meta-analysis using both random and fixed effect models and interpret their results.
 
-•	Quantify and interpret heterogeneity using statistical measures such as Cochran’s Q and I²
+•	Quantify and interpret heterogeneity using statistical measures such as I²
 
 
 

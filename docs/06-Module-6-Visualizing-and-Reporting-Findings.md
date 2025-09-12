@@ -9,7 +9,10 @@ document.addEventListener("DOMContentLoaded", function() {
 
 # Module 6: Visualizing and Reporting Findings 
 
-By the end of this module, students will be able to:
+In this module, we will focus on transforming complex meta-analysis outputs into clear, actionable, and reproducible reports. You will learn how to organize and present findings using structured tables and compelling visualizations, making evidence easier to interpret. We will also practice translating statistical results into meaningful insights tailored for diverse audiences, from researchers to policymakers and practitioners. To ensure rigor and transparency, you’ll see how to structure your reports according to PRISMA standards. Finally, we will explore how R Markdown integrates text, code, and outputs to produce dynamic reports that are both professional and reproducible.
+
+
+***By the end of this module, students will be able to:***
 
 •	Organize and present key meta-analysis findings using structured tables and visualizations.
 

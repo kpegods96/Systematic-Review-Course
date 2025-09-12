@@ -16,6 +16,15 @@ Welcome to this module on data extraction and descriptive analysis in systematic
 <br>
 
 
+***By the end of this module, you will be able to:***
+
+• Prepare and structure data from systematic reviews while addressing missing values, errors, and inconsistencies to reduce bias.
+
+• Explore and interpret heterogeneity across studies using both statistical measures and visual tools, and calculate effect sizes to compare findings meaningfully.
+
+• Apply fixed and random effects models to synthesize evidence and use descriptive statistics and visualizations to summarize data patterns and variability.
+
+
 -
 ## Lesson 3.1 - Handling Missing Data 
 
@@ -78,8 +87,6 @@ In this practice assignment, start by clicking on this [**link**](https://kpegod
 
 <br><br>
 
-
-<br><br>
 
 -
 ## Lecture 3.3 -  Effect size in Meta - Analysis 
