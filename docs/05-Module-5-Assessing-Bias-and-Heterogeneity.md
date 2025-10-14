@@ -1,13 +1,3 @@
-<script>
-document.addEventListener("DOMContentLoaded", function() {
-  var password = prompt("Enter password to view the course:");
-  if (password !== "Course2025!") {
-    document.body.innerHTML = "<h2>Access denied</h2>";
-  }
-});
-</script>
-
-
 # Module 5: Assessing Bias and Heterogeneity
 
 In this module, we will explore methods for assessing the robustness of meta-analysis findings. First, you will learn how to use funnel plots and Egger’s test to detect potential publication bias, a critical step in determining whether the evidence base may be skewed toward positive results. Next, we will turn to sources of heterogeneity, examining why study outcomes may differ. By conducting subgroup analyses, we can identify whether factors such as study design, population characteristics, or intervention type explain variability. Together, these techniques strengthen the credibility of your meta-analysis and ensure more accurate, nuanced interpretations of results.
@@ -183,4 +173,5 @@ All the best, and enjoy testing your understanding!
 
 
 Thank you for taking time to provide your feedback to improve the course. See you on the next module. 
+
 
