@@ -1,12 +1,3 @@
-<script>
-document.addEventListener("DOMContentLoaded", function() {
-  var password = prompt("Enter password to view the course:");
-  if (password !== "Course2025!") {
-    document.body.innerHTML = "<h2>Access denied</h2>";
-  }
-});
-</script>
-
 # Module 4: Performing a Meta-Analysis in R 
 
 In this module, we will build the foundation for conducting a high-quality meta-analysis in R. You will first learn how to import, clean, and structure data to ensure accuracy and consistency across studies. Next, we will cover how to calculate common effect size measures—including mean differences, odds ratios, and risk ratios—from both raw data and published summaries. With these measures, you’ll conduct meta-analyses using fixed- and random-effects models, comparing their assumptions and interpretations. Finally, we will focus on quantifying and interpreting heterogeneity with I², essential for understanding variability across included studies.
@@ -174,4 +165,5 @@ All the best, and enjoy testing your understanding!
 
 
 Thank you for taking time to provide your feedback to improve the course. See you on the next module. 
+
 
