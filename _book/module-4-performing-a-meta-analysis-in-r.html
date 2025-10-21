@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<title>Chapter 5 Module 4: Performing a Meta-Analysis in R | Systematic Review and Meta - Analysis Course</title>
+<meta name="author" content="Godsway Edem Kpene and Rafael Miranda Tassitano (PhD)">
+<meta name="description" content="In this module, we will build the foundation for conducting a high-quality meta-analysis in R. You will first learn how to import, clean, and structure data to ensure accuracy and consistency...">
+<meta name="generator" content="bookdown 0.45 with bs4_book()">
+<meta property="og:title" content="Chapter 5 Module 4: Performing a Meta-Analysis in R | Systematic Review and Meta - Analysis Course">
+<meta property="og:type" content="book">
+<meta property="og:description" content="In this module, we will build the foundation for conducting a high-quality meta-analysis in R. You will first learn how to import, clean, and structure data to ensure accuracy and consistency...">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="Chapter 5 Module 4: Performing a Meta-Analysis in R | Systematic Review and Meta - Analysis Course">
+<meta name="twitter:description" content="In this module, we will build the foundation for conducting a high-quality meta-analysis in R. You will first learn how to import, clean, and structure data to ensure accuracy and consistency...">
+<!-- JS --><script src="https://cdnjs.cloudflare.com/ajax/libs/clipboard.js/2.0.6/clipboard.min.js" integrity="sha256-inc5kl9MA1hkeYUt+EC3BhlIgyp/2jDIyBLS6k3UxPI=" crossorigin="anonymous"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/6.4.6/fuse.js" integrity="sha512-zv6Ywkjyktsohkbp9bb45V6tEMoWhzFzXis+LrMehmJZZSys19Yxf1dopHx7WzIKxr5tK2dVcYmaCk2uqdjF4A==" crossorigin="anonymous"></script><script src="https://kit.fontawesome.com/6ecbd6c532.js" crossorigin="anonymous"></script><script src="libs/jquery-3.6.0/jquery-3.6.0.min.js"></script><meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<link href="libs/bootstrap-4.6.0/bootstrap.min.css" rel="stylesheet">
+<script src="libs/bootstrap-4.6.0/bootstrap.bundle.min.js"></script><script src="libs/bs3compat-0.9.0/transition.js"></script><script src="libs/bs3compat-0.9.0/tabs.js"></script><script src="libs/bs3compat-0.9.0/bs3compat.js"></script><link href="libs/bs4_book-1.0.0/bs4_book.css" rel="stylesheet">
+<script src="libs/bs4_book-1.0.0/bs4_book.js"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/autocomplete.js/0.38.0/autocomplete.jquery.min.js" integrity="sha512-GU9ayf+66Xx2TmpxqJpliWbT5PiGYxpaG8rfnBEk1LL8l1KGkRShhngwdXK1UgqhAzWpZHSiYPc09/NwDQIGyg==" crossorigin="anonymous"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/mark.min.js" integrity="sha512-5CYOlHXGh6QpOFA/TeTylKLWfB3ftPsde7AnmhuitiTX4K5SqCLBeKro6sPS8ilsz1Q4NRx3v8Ko2IBiszzdww==" crossorigin="anonymous"></script><!-- CSS --><style type="text/css">
+    
+    div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+  </style>
+<link rel="stylesheet" href="style.css">
+</head>
+<body data-spy="scroll" data-target="#toc">
+
+<div class="container-fluid">
+<div class="row">
+  <header class="col-sm-12 col-lg-3 sidebar sidebar-book"><a class="sr-only sr-only-focusable" href="#content">Skip to main content</a>
+
+    <div class="d-flex align-items-start justify-content-between">
+      <h1>
+        <a href="index.html" title="">Systematic Review and Meta - Analysis Course</a>
+      </h1>
+      <button class="btn btn-outline-primary d-lg-none ml-2 mt-1" type="button" data-toggle="collapse" data-target="#main-nav" aria-expanded="true" aria-controls="main-nav"><i class="fas fa-bars"></i><span class="sr-only">Show table of contents</span></button>
+    </div>
+
+    <div id="main-nav" class="collapse-lg">
+      <form role="search">
+        <input id="search" class="form-control" type="search" placeholder="Search" aria-label="Search">
+</form>
+
+      <nav aria-label="Table of contents"><h2>Table of contents</h2>
+        <ul class="book-toc list-unstyled">
+<li><a class="" href="index.html"><span class="header-section-number">1</span> Welcome!</a></li>
+<li><a class="" href="module-1-systematic-review-meta---analysis-basics.html"><span class="header-section-number">2</span> Module 1 : Systematic Review &amp; Meta - Analysis Basics</a></li>
+<li><a class="" href="module-2-literature-search-and-data-extraction.html"><span class="header-section-number">3</span> Module 2: Literature Search and Data Extraction</a></li>
+<li><a class="" href="module-3-data-preparation-and-descriptive-analysis.html"><span class="header-section-number">4</span> Module 3: Data Preparation and Descriptive Analysis</a></li>
+<li><a class="active" href="module-4-performing-a-meta-analysis-in-r.html"><span class="header-section-number">5</span> Module 4: Performing a Meta-Analysis in R</a></li>
+<li><a class="" href="module-5-assessing-bias-and-heterogeneity.html"><span class="header-section-number">6</span> Module 5: Assessing Bias and Heterogeneity</a></li>
+<li><a class="" href="module-6-visualizing-and-reporting-findings.html"><span class="header-section-number">7</span> Module 6: Visualizing and Reporting Findings</a></li>
+<li><a class="" href="references.html">References</a></li>
+</ul>
+
+        <div class="book-extra">
+          <p><a id="book-repo" href="https://github.com/rstudio/bookdown-demo">View book source <i class="fab fa-github"></i></a></p>
+        </div>
+      </nav>
+</div>
+  </header><main class="col-sm-12 col-md-9 col-lg-7" id="content"><div id="module-4-performing-a-meta-analysis-in-r" class="section level1" number="5">
+<h1>
+<span class="header-section-number">5</span> Module 4: Performing a Meta-Analysis in R<a class="anchor" aria-label="anchor" href="#module-4-performing-a-meta-analysis-in-r"><i class="fas fa-link"></i></a>
+</h1>
+<p>In this module, we will build the foundation for conducting a high-quality meta-analysis in R. You will first learn how to import, clean, and structure data to ensure accuracy and consistency across studies. Next, we will cover how to calculate common effect size measures—including mean differences, odds ratios, and risk ratios—from both raw data and published summaries. With these measures, you’ll conduct meta-analyses using fixed- and random-effects models, comparing their assumptions and interpretations. Finally, we will focus on quantifying and interpreting heterogeneity with I², essential for understanding variability across included studies.</p>
+<p><strong><em>By the end of this module, students will be able to:</em></strong></p>
+<p>• Import, clean, and structure data for meta-analysis in R.</p>
+<p>• Calculate common effect size measures (e.g., mean differences, odds ratios, risk ratios) from raw data or summary statistics.</p>
+<p>• Conduct meta-analysis using both random and fixed effect models and interpret their results.</p>
+<p>• Quantify and interpret heterogeneity using statistical measures such as I²</p>
+<ul>
+<li><h2 id="lecture-4.1---cleaning-and-structuring-data-for-meta-analysis-in-r">Lecture 4.1 - Cleaning, and Structuring Data for Meta-Analysis in R</h2></li>
+</ul>
+<p>Welcome! In this short lecture we’ll explain why cleaning and structuring data are essential for meta-analysis and demonstrate practical R workflows. You’ll learn to import an Excel file with readxl, remove incomplete or inconsistent rows, and handle missing values using dplyr. We’ll also convert variables—such as Intervention_Type—into appropriate types and factors so models run correctly. Proper cleaning prevents biased or misleading results by ensuring consistent formats and accurate inputs. After the lecture, download the R script and sample dataset from the course eBook to practice in RStudio.</p>
+<p>Now Enjoy the Lecture!</p>
+<video width="700" height="500" controls><source src="http://publish.illinois.edu/tassitanolab-training/files/2025/09/Lecture-4.1.mp4"><p>Your browser does not support the video tag.
+</p></source></video><p><br><br></p>
+<p><strong>Lecture Practice Assignment</strong></p>
+<p>In this practice assignment, start by clicking on this <a href="https://kpegods96.github.io/demo/"><strong>link</strong></a>. Once there, head over to <strong>Lecture 4.1 Demonstration: Cleaning, and Structuring Data for Meta-Analysis in R</strong>, copy the code, and try running it in RStudio as you follow along step by step.</p>
+<p><br></p>
+<ul>
+<li><h2 id="lecture-4.2---pooled-prevalence-estimation">Lecture 4.2 - Pooled Prevalence Estimation</h2></li>
+</ul>
+<p>Welcome to this lecture on calculating pooled prevalence in meta-analysis. Pooled prevalence is a powerful method for summarizing results across multiple studies, providing a single, overall estimate of how common a condition is across different populations or settings. In this session, we’ll cover key concepts such as prevalence, study weighting, and heterogeneity, measured by I², which tells us how consistent study results are. You’ll learn how to extract data, stabilize proportions, and implement a random-effects model in R using the meta package. By the end, you’ll understand how to interpret pooled estimates and apply your knowledge in previous lecture to assess their reliability.</p>
+<p>Now enjoy the Lecture!</p>
+<video width="700" height="500" controls><source src="http://publish.illinois.edu/tassitanolab-training/files/2025/09/Lecture-4.2.mp4"><p>Your browser does not support the video tag.
+</p></source></video><p><br><br></p>
+<p><strong>Additional Sources</strong></p>
+<p><a href="https://onlinelibrary.wiley.com/doi/10.1002/jrsm.1547">Meta-analysis of prevalence: I2 statistic and how to deal with heterogeneity</a></p>
+<p><br></p>
+<p><strong>Lecture Practice Assignment</strong></p>
+<p>In this practice assignment, start by clicking on this <a href="https://kpegods96.github.io/demo/"><strong>link</strong></a>. Once there, head over to <strong>Lecture 4.2 Demonstration: Pooled Prevalence Estimation</strong>, copy the code, and try running it in RStudio as you follow along step by step.</p>
+<p><br></p>
+<ul>
+<li><h2 id="lecture-4.3---pre-post-comparison-meta---analysis">Lecture 4.3 - Pre-Post Comparison Meta - Analysis</h2></li>
+</ul>
+<p>Welcome to this lecture on analyzing continuous data in studies comparing two groups before and after an intervention. We’ll focus on understanding how interventions impact outcomes like blood pressure, weight, or knowledge scores. Using a simulated dataset, we’ll calculate the mean change in each group and combine results across studies using a random-effects meta-analysis. You’ll learn how to implement this in R with the metafor package, interpret effect sizes, assess statistical significance, and evaluate heterogeneity. Finally, you’ll have hands-on practice with the provided R code and dataset.</p>
+<p>Now Enjoy the Lecture!</p>
+<video width="700" height="500" controls><source src="http://publish.illinois.edu/tassitanolab-training/files/2025/09/Lecture-4.3.mp4"><p>Your browser does not support the video tag.
+</p></source></video><p><br><br></p>
+<p><strong>Lecture Practice Assignment</strong></p>
+<p>In this practice assignment, start by clicking on this <a href="https://kpegods96.github.io/demo/"><strong>link</strong></a>. Once there, head over to <strong>Lecture 4.3 Demonstration: Pre-Post Comparison Meta - Analysis</strong>, copy the code, and try running it in RStudio as you follow along step by step.</p>
+<p><br></p>
+<ul>
+<li><h2 id="lecture-4.4---single-group-pre---post-data">Lecture 4.4 - Single Group Pre - Post data</h2></li>
+</ul>
+<p>Welcome to this lecture on analyzing continuous data from a single group before and after an intervention. This design is widely used in behavioral and health sciences to measure whether an intervention produces meaningful change in outcomes such as stress levels, weight, or test scores. We’ll explore how to calculate mean differences and standardized mean change, even when only summary statistics are reported. Using R and the metafor package, we’ll simulate data, estimate effect sizes, and run a random-effects meta-analysis.</p>
+<p>Now Enjoy the Lecture!</p>
+<video width="700" height="500" controls><source src="http://publish.illinois.edu/tassitanolab-training/files/2025/09/Lecture-4.4.mp4"><p>Your browser does not support the video tag.
+</p></source></video><p><br><br></p>
+<p><strong>Lecture Practice Assignment</strong></p>
+<p>In this practice assignment, start by clicking on this <a href="https://kpegods96.github.io/demo/"><strong>link</strong></a>. Once there, head over to <strong>Lecture 4.4 Demonstration: Single Group Pre - Post data</strong>, copy the code, and try running it in RStudio as you follow along step by step.</p>
+<p><br></p>
+<ul>
+<li><h2 id="lecture-4.5---binary-data-for-a-post-test-only-design">Lecture 4.5 - Binary Data for a Post-Test Only Design</h2></li>
+</ul>
+<p>Welcome to this lecture on analyzing binary data in a post-test-only design. In this type of study, outcomes are measured only after the intervention, making it a common approach when baseline data are unavailable. We’ll focus on comparing two groups—such as treatment versus control—using binary outcomes like recovery (yes/no) or event occurrence. The central measure is the odds ratio (OR), which indicates how much more likely the outcome is in the treatment group compared to control. You’ll also see how pooled ORs are calculated across studies using fixed- or random-effects models, and practice applying this in R.</p>
+<p>Now Enjoy the Lecture!</p>
+<video width="700" height="500" controls><source src="http://publish.illinois.edu/tassitanolab-training/files/2025/09/Lecture-4.5.mp4"><p>Your browser does not support the video tag.
+</p></source></video><p><br><br></p>
+<p><br></p>
+<p><strong>Lecture Practice Assignment</strong></p>
+<p>In this practice assignment, start by clicking on this <a href="https://kpegods96.github.io/demo/"><strong>link</strong></a>. Once there, head over to <strong>Lecture 4.5 Demonstration: Binary Data for a Post-Test Only Design</strong>, copy the code, and try running it in RStudio as you follow along step by step.</p>
+<p><br><br></p>
+<p><strong>Wrap-up</strong></p>
+<p>In this module, you engaged in hands-on practice using R to apply key techniques in meta-analysis. Working with sample datasets, you learned how to compute pooled prevalence estimates, perform pre–post test comparisons, analyze single-group pre–post test data, and conduct binary outcome post-test meta-analyses. These practical exercises allowed you to apply statistical concepts to real-world scenarios. By completing this module, you are now better equipped to apply these methods to your own systematic review, ensuring greater rigor and reproducibility in your analysis.</p>
+<p><br></p>
+<p><strong>Looking ahead</strong></p>
+<p>Module 5 builds upon your understanding of meta-analysis by introducing more advanced analytical techniques, including publication bias, moderator analysis, and subgroup analysis. You will explore how to identify and assess publication bias using tools such as funnel plots and statistical tests like Egger’s regression. The module also covers methods for conducting moderator and subgroup analyses to examine how study-level characteristics—such as population differences, intervention types, or methodological quality—may influence effect sizes. These approaches are essential for interpreting heterogeneity in meta-analysis and ensuring that your findings are both accurate and applicable to diverse contexts.</p>
+<p><br></p>
+<ul>
+<li><h2 id="module-4---quiz">Module 4 - Quiz</h2></li>
+</ul>
+<p>This quiz is designed to help you review and reinforce the key concepts covered in the first module. Take your time to read each question carefully, and apply the knowledge you’ve gained from the lectures and hands-on activities. Remember, the quiz is meant to support your learning, so it’s a great way to identify areas you may want to revisit before moving on.</p>
+<p>All the best, and enjoy testing your understanding!</p>
+<p><a href="https://tassitano-lab.shinyapps.io/SystematicReviewQuiz/"><strong>Begin your Module 4 Quiz Now</strong></a></p>
+<p><br></p>
+<p><strong>Kindly click this link below to provide feedback to improve this module</strong></p>
+<p><a href="https://surveys.illinois.edu/sec/1019362512"><strong>Click here to provide feedback</strong></a></p>
+<p>Thank you for taking time to provide your feedback to improve the course. See you on the next module.</p>
+
+</div>
+  <div class="chapter-nav">
+<div class="prev"><a href="module-3-data-preparation-and-descriptive-analysis.html"><span class="header-section-number">4</span> Module 3: Data Preparation and Descriptive Analysis</a></div>
+<div class="next"><a href="module-5-assessing-bias-and-heterogeneity.html"><span class="header-section-number">6</span> Module 5: Assessing Bias and Heterogeneity</a></div>
+</div></main><div class="col-md-3 col-lg-2 d-none d-md-block sidebar sidebar-chapter">
+    <nav id="toc" data-toggle="toc" aria-label="On this page"><h2>On this page</h2>
+      <ul class="nav navbar-nav"><li><a class="nav-link" href="#module-4-performing-a-meta-analysis-in-r"><span class="header-section-number">5</span> Module 4: Performing a Meta-Analysis in R</a></li></ul>
+
+      <div class="book-extra">
+        <ul class="list-unstyled">
+<li><a id="book-source" href="https://github.com/rstudio/bookdown-demo/blob/master/04-Module-4-Performing-a-Meta-Analysis-in-R.Rmd">View source <i class="fab fa-github"></i></a></li>
+          <li><a id="book-edit" href="https://github.com/rstudio/bookdown-demo/edit/master/04-Module-4-Performing-a-Meta-Analysis-in-R.Rmd">Edit this page <i class="fab fa-github"></i></a></li>
+        </ul>
+</div>
+    </nav>
+</div>
+
+</div>
+</div> <!-- .container -->
+
+<footer class="bg-primary text-light mt-5"><div class="container"><div class="row">
+
+  <div class="col-12 col-md-6 mt-3">
+    <p>"<strong>Systematic Review and Meta - Analysis Course</strong>" was written by Godsway Edem Kpene and Rafael Miranda Tassitano (PhD). It was last built on 2025-10-21.</p>
+  </div>
+
+  <div class="col-12 col-md-6 mt-3">
+    <p>This book was built by the <a class="text-light" href="https://bookdown.org">bookdown</a> R package.</p>
+  </div>
+
+</div></div>
+</footer>
+</body>
+</html>

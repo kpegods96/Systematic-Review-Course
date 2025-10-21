@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<title>Chapter 7 Module 6: Visualizing and Reporting Findings | Systematic Review and Meta - Analysis Course</title>
+<meta name="author" content="Godsway Edem Kpene and Rafael Miranda Tassitano (PhD)">
+<meta name="description" content="In this module, we will focus on transforming complex meta-analysis outputs into clear, actionable, and reproducible reports. You will learn how to organize and present findings using structured...">
+<meta name="generator" content="bookdown 0.45 with bs4_book()">
+<meta property="og:title" content="Chapter 7 Module 6: Visualizing and Reporting Findings | Systematic Review and Meta - Analysis Course">
+<meta property="og:type" content="book">
+<meta property="og:description" content="In this module, we will focus on transforming complex meta-analysis outputs into clear, actionable, and reproducible reports. You will learn how to organize and present findings using structured...">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="Chapter 7 Module 6: Visualizing and Reporting Findings | Systematic Review and Meta - Analysis Course">
+<meta name="twitter:description" content="In this module, we will focus on transforming complex meta-analysis outputs into clear, actionable, and reproducible reports. You will learn how to organize and present findings using structured...">
+<!-- JS --><script src="https://cdnjs.cloudflare.com/ajax/libs/clipboard.js/2.0.6/clipboard.min.js" integrity="sha256-inc5kl9MA1hkeYUt+EC3BhlIgyp/2jDIyBLS6k3UxPI=" crossorigin="anonymous"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/6.4.6/fuse.js" integrity="sha512-zv6Ywkjyktsohkbp9bb45V6tEMoWhzFzXis+LrMehmJZZSys19Yxf1dopHx7WzIKxr5tK2dVcYmaCk2uqdjF4A==" crossorigin="anonymous"></script><script src="https://kit.fontawesome.com/6ecbd6c532.js" crossorigin="anonymous"></script><script src="libs/jquery-3.6.0/jquery-3.6.0.min.js"></script><meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<link href="libs/bootstrap-4.6.0/bootstrap.min.css" rel="stylesheet">
+<script src="libs/bootstrap-4.6.0/bootstrap.bundle.min.js"></script><script src="libs/bs3compat-0.9.0/transition.js"></script><script src="libs/bs3compat-0.9.0/tabs.js"></script><script src="libs/bs3compat-0.9.0/bs3compat.js"></script><link href="libs/bs4_book-1.0.0/bs4_book.css" rel="stylesheet">
+<script src="libs/bs4_book-1.0.0/bs4_book.js"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/autocomplete.js/0.38.0/autocomplete.jquery.min.js" integrity="sha512-GU9ayf+66Xx2TmpxqJpliWbT5PiGYxpaG8rfnBEk1LL8l1KGkRShhngwdXK1UgqhAzWpZHSiYPc09/NwDQIGyg==" crossorigin="anonymous"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/mark.min.js" integrity="sha512-5CYOlHXGh6QpOFA/TeTylKLWfB3ftPsde7AnmhuitiTX4K5SqCLBeKro6sPS8ilsz1Q4NRx3v8Ko2IBiszzdww==" crossorigin="anonymous"></script><!-- CSS --><style type="text/css">
+    
+    div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+  </style>
+<link rel="stylesheet" href="style.css">
+</head>
+<body data-spy="scroll" data-target="#toc">
+
+<div class="container-fluid">
+<div class="row">
+  <header class="col-sm-12 col-lg-3 sidebar sidebar-book"><a class="sr-only sr-only-focusable" href="#content">Skip to main content</a>
+
+    <div class="d-flex align-items-start justify-content-between">
+      <h1>
+        <a href="index.html" title="">Systematic Review and Meta - Analysis Course</a>
+      </h1>
+      <button class="btn btn-outline-primary d-lg-none ml-2 mt-1" type="button" data-toggle="collapse" data-target="#main-nav" aria-expanded="true" aria-controls="main-nav"><i class="fas fa-bars"></i><span class="sr-only">Show table of contents</span></button>
+    </div>
+
+    <div id="main-nav" class="collapse-lg">
+      <form role="search">
+        <input id="search" class="form-control" type="search" placeholder="Search" aria-label="Search">
+</form>
+
+      <nav aria-label="Table of contents"><h2>Table of contents</h2>
+        <ul class="book-toc list-unstyled">
+<li><a class="" href="index.html"><span class="header-section-number">1</span> Welcome!</a></li>
+<li><a class="" href="module-1-systematic-review-meta---analysis-basics.html"><span class="header-section-number">2</span> Module 1 : Systematic Review &amp; Meta - Analysis Basics</a></li>
+<li><a class="" href="module-2-literature-search-and-data-extraction.html"><span class="header-section-number">3</span> Module 2: Literature Search and Data Extraction</a></li>
+<li><a class="" href="module-3-data-preparation-and-descriptive-analysis.html"><span class="header-section-number">4</span> Module 3: Data Preparation and Descriptive Analysis</a></li>
+<li><a class="" href="module-4-performing-a-meta-analysis-in-r.html"><span class="header-section-number">5</span> Module 4: Performing a Meta-Analysis in R</a></li>
+<li><a class="" href="module-5-assessing-bias-and-heterogeneity.html"><span class="header-section-number">6</span> Module 5: Assessing Bias and Heterogeneity</a></li>
+<li><a class="active" href="module-6-visualizing-and-reporting-findings.html"><span class="header-section-number">7</span> Module 6: Visualizing and Reporting Findings</a></li>
+<li><a class="" href="references.html">References</a></li>
+</ul>
+
+        <div class="book-extra">
+          <p><a id="book-repo" href="https://github.com/rstudio/bookdown-demo">View book source <i class="fab fa-github"></i></a></p>
+        </div>
+      </nav>
+</div>
+  </header><main class="col-sm-12 col-md-9 col-lg-7" id="content"><div id="module-6-visualizing-and-reporting-findings" class="section level1" number="7">
+<h1>
+<span class="header-section-number">7</span> Module 6: Visualizing and Reporting Findings<a class="anchor" aria-label="anchor" href="#module-6-visualizing-and-reporting-findings"><i class="fas fa-link"></i></a>
+</h1>
+<p>In this module, we will focus on transforming complex meta-analysis outputs into clear, actionable, and reproducible reports. You will learn how to organize and present findings using structured tables and compelling visualizations, making evidence easier to interpret. We will also practice translating statistical results into meaningful insights tailored for diverse audiences, from researchers to policymakers and practitioners. To ensure rigor and transparency, you’ll see how to structure your reports according to PRISMA standards. Finally, we will explore how R Markdown integrates text, code, and outputs to produce dynamic reports that are both professional and reproducible.</p>
+<p><strong><em>By the end of this module, students will be able to:</em></strong></p>
+<p>• Organize and present key meta-analysis findings using structured tables and visualizations.</p>
+<p>• Interpret and Communicate Results Clearly – Translate statistical findings into meaningful insights for diverse audiences, including researchers, policymakers, and practitioners.</p>
+<p>• Structure meta-analysis reports according to PRISMA (Preferred Reporting Items for Systematic Reviews and Meta-Analyses) standards.</p>
+<p>• Implement R Markdown to create dynamic, reproducible reports integrating text, code, and outputs.</p>
+<ul>
+<li><h2 id="lecture-6.1-meta---analysis-result-presentation">Lecture 6.1: Meta - Analysis Result Presentation</h2></li>
+</ul>
+<p>Welcome! In this session, we’ll focus on how to summarize and present meta-analysis results using structured tables and clear visuals. Communicating findings effectively is just as important as conducting the analysis itself—because strong evidence must be both rigorous and accessible. We’ll cover best practices for reporting, including how to design summary tables that highlight study characteristics and effect sizes, and how to use visuals like forest plots and funnel plots to convey overall patterns and potential bias. By the end, you’ll know how to transform complex statistical outputs into compelling, transparent presentations that resonate with your audience.</p>
+<p>Now Enjoy the Lecture!</p>
+<video width="700" height="500" controls><source src="http://publish.illinois.edu/tassitanolab-training/files/2025/09/Lecture-6.1.mp4"><p>Your browser does not support the video tag.
+</p></source></video><p><br><br></p>
+<ul>
+<li><h2 id="lecture-6.2-communicating-meta-analysis-results-for-policy-impact">Lecture 6.2: Communicating Meta-Analysis Results for Policy Impact</h2></li>
+</ul>
+<p>Welcome! In this video, we’ll explore how to translate complex meta-analysis results into clear, actionable messages for non-technical audiences such as policymakers, public health practitioners, and community stakeholders. While statistical outputs are valuable to researchers, decision-makers need evidence that is understandable, relevant, and directly tied to practice or policy. A well-crafted policy brief bridges this gap by simplifying complex findings, avoiding jargon, and focusing on real-world implications. By the end of this session, you’ll understand how to tailor results for different audiences, use visuals effectively, and frame key takeaways that guide informed action and meaningful change.</p>
+<p>Now Enjoy the Lecture!</p>
+<video width="700" height="500" controls><source src="http://publish.illinois.edu/tassitanolab-training/files/2025/09/Lecture-6.2.mp4"><p>Your browser does not support the video tag.
+</p></source></video><p><br><br></p>
+<p><strong>Additional Sources</strong></p>
+<p><a href="http://publish.illinois.edu/tassitanolab-training/files/2025/09/Maynard_2024_Improving-the-usefulness-and-use-of-meta-analysis-to-inform-policy-and-practice.pdf">Improving the Usefulness and Use of Meta-Analysis to Inform Policy and Practice</a></p>
+<p><br></p>
+<ul>
+<li><h2 id="lecture-6.3-reproducible-reporting-with-r-markdown">Lecture 6.3: Reproducible Reporting with R Markdown</h2></li>
+</ul>
+<p>Welcome! In this video, we’ll focus on how to create dynamic, reproducible reports using R Markdown. R Markdown allows you to seamlessly integrate text, code, and outputs into a single document, ensuring your work is both transparent and easy to share. By combining narrative with automatically updated plots, tables, and results, you can produce professional reports that are reproducible across different contexts. In this session, you’ll learn the structure of an R Markdown report, best practices for embedding analysis, and how to render polished outputs for submission.</p>
+<p>Now Enjoy the Lecture!</p>
+<video width="700" height="500" controls><source src="http://publish.illinois.edu/tassitanolab-training/files/2025/09/Lecture-6.3.mp4"><p>Your browser does not support the video tag.
+</p></source></video><p><br><br></p>
+<p><strong>Additional Sources</strong></p>
+<p>Kindly use the link <a href="https://rmarkdown.rstudio.com/"><strong>here</strong></a> for all the necessary help you need in building an R markdown to report your finding for easy reproducibility.</p>
+<p><a href="https://bookdown.org/yihui/rmarkdown/">R Markdown: The Definitive Guide</a>
+<br></p>
+<p><strong>Wrap-up</strong></p>
+<p>In this final module, you learned how to effectively present meta-analysis results to diverse audiences, including researchers, practitioners, and policymakers. You explored best practices for translating complex statistical findings into clear, actionable messages that can drive policy and practice decisions. Additionally, you gained hands-on experience creating dynamic and reproducible reports using R Markdown, integrating narrative, code, and visualizations to enhance transparency and ensure your work can be reliably replicated.</p>
+<p><br></p>
+<ul>
+<li><h2 id="module-6---quiz">Module 6 - Quiz</h2></li>
+</ul>
+<p>This quiz is designed to help you review and reinforce the key concepts covered in the first module. Take your time to read each question carefully, and apply the knowledge you’ve gained from the lectures and hands-on activities. Remember, the quiz is meant to support your learning, so it’s a great way to identify areas you may want to revisit before moving on.</p>
+<p>All the best, and enjoy testing your understanding!</p>
+<p><a href="https://tassitano-lab.shinyapps.io/SystematicReviewQuiz/"><strong>Begin your Module 6 Quiz Now</strong></a></p>
+<p><br></p>
+<p><strong>Kindly click this link below to provide feedback to improve this module</strong></p>
+<p><a href="https://surveys.illinois.edu/sec/329768670"><strong>Click here to provide feedback</strong></a></p>
+<p>Thank you for taking time to provide your feedback to improve the course. See you on the next module.</p>
+
+
+</div>
+  <div class="chapter-nav">
+<div class="prev"><a href="module-5-assessing-bias-and-heterogeneity.html"><span class="header-section-number">6</span> Module 5: Assessing Bias and Heterogeneity</a></div>
+<div class="next"><a href="references.html">References</a></div>
+</div></main><div class="col-md-3 col-lg-2 d-none d-md-block sidebar sidebar-chapter">
+    <nav id="toc" data-toggle="toc" aria-label="On this page"><h2>On this page</h2>
+      <ul class="nav navbar-nav"><li><a class="nav-link" href="#module-6-visualizing-and-reporting-findings"><span class="header-section-number">7</span> Module 6: Visualizing and Reporting Findings</a></li></ul>
+
+      <div class="book-extra">
+        <ul class="list-unstyled">
+<li><a id="book-source" href="https://github.com/rstudio/bookdown-demo/blob/master/06-Module-6-Visualizing-and-Reporting-Findings.Rmd">View source <i class="fab fa-github"></i></a></li>
+          <li><a id="book-edit" href="https://github.com/rstudio/bookdown-demo/edit/master/06-Module-6-Visualizing-and-Reporting-Findings.Rmd">Edit this page <i class="fab fa-github"></i></a></li>
+        </ul>
+</div>
+    </nav>
+</div>
+
+</div>
+</div> <!-- .container -->
+
+<footer class="bg-primary text-light mt-5"><div class="container"><div class="row">
+
+  <div class="col-12 col-md-6 mt-3">
+    <p>"<strong>Systematic Review and Meta - Analysis Course</strong>" was written by Godsway Edem Kpene and Rafael Miranda Tassitano (PhD). It was last built on 2025-10-21.</p>
+  </div>
+
+  <div class="col-12 col-md-6 mt-3">
+    <p>This book was built by the <a class="text-light" href="https://bookdown.org">bookdown</a> R package.</p>
+  </div>
+
+</div></div>
+</footer>
+</body>
+</html>
